@@ -1,0 +1,100 @@
+{
+  "scope": "Sarah Sadeq only; research record, no images acquired",
+  "researchDate": "2026-10-14",
+  "outcome": "No subject-verified image with confirmed public website reuse permission found. All existing placeholders remain unchanged.",
+  "items": [
+    {
+      "subject": "Sarah Sadeq portrait",
+      "filename": "images/sarah-sadeq-portrait.webp",
+      "status": "pending-permission",
+      "sourcePage": "https://sarahsadeq.com/who-we-are/",
+      "originalFile": null,
+      "downloaded": false,
+      "creator": null,
+      "copyrightNotice": "2026 SARAH sadeq. ALL RIGHTS RESERVED",
+      "rightsHolderStatus": "The official site asserts rights; individual photographer, visualization creator and ownership/licensing authority remain unconfirmed.",
+      "license": null,
+      "licenseUrl": null,
+      "attributionRequired": null,
+      "modifications": [],
+      "subjectVerification": "No individually identified and licensed portrait was verified; the Who We Are page image has generic team/architect captions and must not be treated as a confirmed Sarah portrait.",
+      "permissionNeeded": "Obtain written permission from the actual rights holder for public display on https://she-builds-one.vercel.app/, local storage, WebP conversion and proportional resizing. For a portrait include permission for CSS grayscale and centered 3:4 gallery presentation. Obtain exact creator credit, source URL, allowed scope/duration and required notices; confirm the firm is authorized to grant the rights."
+    },
+    {
+      "subject": "ARCH-UAE-DUBAI-10000-WAAA",
+      "filename": "images/ssa-dubai-palace.webp",
+      "status": "pending-permission",
+      "sourcePage": "https://sarahsadeq.com/projects/arch-uae-dubai-10000-waaa/",
+      "originalFile": null,
+      "downloaded": false,
+      "creator": null,
+      "copyrightNotice": "2026 SARAH sadeq. ALL RIGHTS RESERVED",
+      "rightsHolderStatus": "The official site asserts rights; individual photographer, visualization creator and ownership/licensing authority remain unconfirmed.",
+      "license": null,
+      "licenseUrl": null,
+      "attributionRequired": null,
+      "modifications": [],
+      "subjectVerification": "Official portfolio page explicitly identifies this exact project code and location. Individual image authorship and whether each visual is photography or a rendering require confirmation.",
+      "permissionNeeded": "Obtain written permission from the actual rights holder for public display on https://she-builds-one.vercel.app/, local storage, WebP conversion and proportional resizing. For a portrait include permission for CSS grayscale and centered 3:4 gallery presentation. Obtain exact creator credit, source URL, allowed scope/duration and required notices; confirm the firm is authorized to grant the rights."
+    },
+    {
+      "subject": "ARCH-KWT-ALZAHRAA-5000-FLYBBI",
+      "filename": "images/ssa-alzahraa-villa.webp",
+      "status": "pending-permission",
+      "sourcePage": "https://sarahsadeq.com/projects/arch-kwt-alzahraa-5000-flybbi/",
+      "originalFile": null,
+      "downloaded": false,
+      "creator": null,
+      "copyrightNotice": "2026 SARAH sadeq. ALL RIGHTS RESERVED",
+      "rightsHolderStatus": "The official site asserts rights; individual photographer, visualization creator and ownership/licensing authority remain unconfirmed.",
+      "license": null,
+      "licenseUrl": null,
+      "attributionRequired": null,
+      "modifications": [],
+      "subjectVerification": "Official portfolio page explicitly identifies this exact project code and location. Individual image authorship and whether each visual is photography or a rendering require confirmation.",
+      "permissionNeeded": "Obtain written permission from the actual rights holder for public display on https://she-builds-one.vercel.app/, local storage, WebP conversion and proportional resizing. For a portrait include permission for CSS grayscale and centered 3:4 gallery presentation. Obtain exact creator credit, source URL, allowed scope/duration and required notices; confirm the firm is authorized to grant the rights."
+    },
+    {
+      "subject": "ARCH-KSA-ALRIYADH-1840-IBRHMJMZ",
+      "filename": "images/ssa-riyadh-residence.webp",
+      "status": "pending-permission",
+      "sourcePage": "https://sarahsadeq.com/projects/arch-ksa-alriyadh-1840-ibrhmjmz/",
+      "originalFile": null,
+      "downloaded": false,
+      "creator": null,
+      "copyrightNotice": "2026 SARAH sadeq. ALL RIGHTS RESERVED",
+      "rightsHolderStatus": "The official site asserts rights; individual photographer, visualization creator and ownership/licensing authority remain unconfirmed.",
+      "license": null,
+      "licenseUrl": null,
+      "attributionRequired": null,
+      "modifications": [],
+      "subjectVerification": "Official portfolio page explicitly identifies this exact project code and location. Individual image authorship and whether each visual is photography or a rendering require confirmation.",
+      "permissionNeeded": "Obtain written permission from the actual rights holder for public display on https://she-builds-one.vercel.app/, local storage, WebP conversion and proportional resizing. For a portrait include permission for CSS grayscale and centered 3:4 gallery presentation. Obtain exact creator credit, source URL, allowed scope/duration and required notices; confirm the firm is authorized to grant the rights."
+    }
+  ],
+  "rightsEvidence": [
+    {
+      "sourcePage": "https://sarahsadeq.com/terms-and-conditions/",
+      "finding": "Accessible page exposes an all-rights-reserved footer, without an explicit image reuse grant."
+    },
+    {
+      "sourcePage": "https://main.d1s4b0szmjswh9.amplifyapp.com/terms-and-conditions/",
+      "finding": "Search-indexed copy identifies Sarah Sadeq Engineering Consulting, links sarahsadeq.com and limits its download allowance to personal noncommercial or internal-business use; directs requests for other uses to letschat@sarahsadeq.com. Alternate-host indexed evidence is corroborative only, not image permission."
+    },
+    {
+      "sourcePage": "https://sarahsadeq.com/letschat/",
+      "finding": "Official contact lists letschat@sarahsadeq.com."
+    }
+  ],
+  "additionalSearches": {
+    "WikimediaCommons": "No matching licensed portrait or exact selected-project photograph verified.",
+    "Flickr": "No matching, subject-verified Creative Commons photograph found in indexed searches.",
+    "otherSources": "Searches surfaced Behance, a same-name Wix portfolio, an Oikos publication about other villas, and conference documents; none established both exact subject identity and image-specific reuse permission for the four requested images."
+  },
+  "permissionContact": {
+    "organization": "Sarah Sadeq Architects",
+    "email": "letschat@sarahsadeq.com",
+    "sourcePage": "https://sarahsadeq.com/letschat/",
+    "contacted": false
+  }
+}

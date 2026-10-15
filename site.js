@@ -35,7 +35,7 @@
   function photoCredit(image) {
     const caption = el('p', '', 'caption photo-credit');
     caption.append(document.createTextNode(`Photo: ${image.credit} · `));
-    const source = el('a', 'Wikimedia Commons source'); source.href = image.sourcePage;
+    const source = el('a', image.sourceLabel || 'Wikimedia Commons source'); source.href = image.sourcePage;
     const license = el('a', image.license); license.href = image.licenseUrl;
     caption.append(source, document.createTextNode(' · '), license);
     if (image.changes) caption.append(document.createTextNode(`. ${image.changes}`));

@@ -1,0 +1,162 @@
+{
+  "scope": "Marina Tabassum only",
+  "items": [
+    {
+      "filename": "images/marina-tabassum-portrait.webp",
+      "title": "Marina Tabassum (2019).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marina_Tabassum_(2019).jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Marina_Tabassum_%282019%29.jpg",
+      "creator": "GSAPPstudent",
+      "credit": "GSAPPstudent",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit the creator, link original source and CC BY-SA 4.0, identify modifications and distribute this image adaptation under CC BY-SA 4.0. Do not imply endorsement.",
+      "status": "available",
+      "originalDimensions": [
+        3799,
+        4450
+      ],
+      "dimensions": [
+        1366,
+        1600
+      ],
+      "bytes": 124376,
+      "sha256": "89a82dea2f3142135ef1e424bc6ec8d53428a02186ffa08b56cf124ec2e1c4db",
+      "changes": "Converted to WebP, recompressed and proportionally resized to a maximum of 1600 pixels per side by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0. The Commons portrait is derived from Marina Tabassum at Columbia GSAPP 4.jpg. Displayed in grayscale using CSS; gallery presentation uses a centered 3:4 display crop. Saved image remains uncropped.",
+      "upstreamSource": "https://commons.wikimedia.org/wiki/File:Marina_Tabassum_at_Columbia_GSAPP_4.jpg",
+      "alt": "Marina Tabassum wearing glasses and speaking into a microphone at Columbia University, with one hand raised.",
+      "subjectVerification": "Commons identifies Marina Tabassum in this portrait derived from the Columbia GSAPP photograph; downloaded portrait visually inspected."
+    },
+    {
+      "filename": "images/bait-ur-rouf.webp",
+      "title": "Bait Ur Rouf mosque.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bait_Ur_Rouf_mosque.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bait_Ur_Rouf_mosque.jpg",
+      "creator": "Aashaa",
+      "credit": "Aashaa",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit the creator, link original source and CC BY-SA 4.0, identify modifications and distribute this image adaptation under CC BY-SA 4.0. Do not imply endorsement.",
+      "status": "available",
+      "originalDimensions": [
+        3264,
+        2448
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 218634,
+      "sha256": "6e59b715c3bd56a35bbcb1e912c93ca000fd23b7a39cd86a4dcf2f84581f59eb",
+      "changes": "Converted to WebP, recompressed and proportionally resized to a maximum of 1600 pixels per side by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0.",
+      "alt": "Interior of Bait Ur Rouf Mosque in Dhaka, with exposed brick walls, ceiling fans and small roof openings admitting points of daylight.",
+      "subjectVerification": "Commons explicitly identifies Bait Ur Rouf Mosque; downloaded interior visually inspected, with its distinctive roof openings and brick surfaces."
+    },
+    {
+      "filename": "images/serpentine-pavilion-2025.webp",
+      "title": "Serpentine Gallery Pavilion 2025 I.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Serpentine_Gallery_Pavilion_2025_I.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Serpentine_Gallery_Pavilion_2025_I.jpg",
+      "creator": "Images George Rex",
+      "credit": "Images George Rex",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit the creator, link original source and CC BY-SA 4.0, identify modifications and distribute this image adaptation under CC BY-SA 4.0. Do not imply endorsement.",
+      "status": "available",
+      "originalDimensions": [
+        8256,
+        5504
+      ],
+      "dimensions": [
+        1600,
+        1067
+      ],
+      "bytes": 330538,
+      "sha256": "99b75641d987ff1bae353deaca763121369c8e2e2ede6ac788da4cee48a71fcb",
+      "changes": "Converted to WebP, recompressed and proportionally resized to a maximum of 1600 pixels per side by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0.",
+      "upstreamSource": "https://www.flickr.com/photos/rogersg/54602723762/",
+      "licenseEvidence": "Commons Flickr license review on 10 August 2025 confirmed CC BY-SA 4.0.",
+      "alt": "Serpentine Pavilion 2025, A Capsule in Time, with an arched timber frame and translucent panels behind a tree, and visitors seated along its edges.",
+      "subjectVerification": "Commons caption identifies Marina Tabassum’s A Capsule in Time at Serpentine South, London; downloaded photograph visually inspected against that caption."
+    },
+    {
+      "filename": "images/khudi-bari.webp",
+      "subject": "Khudi Bari",
+      "status": "not-used-project-replaced",
+      "sourcePage": "https://www.vitra.com/en-gb/campus/news/details/khudi-bari",
+      "creator": "Julien Lanoo (credited Vitra candidate photographs)",
+      "license": null,
+      "attributionRequired": null,
+      "reason": "Official Vitra page identifies Khudi Bari and credits Julien Lanoo, but no image-specific reuse permission was confirmed. Commons and Flickr searches did not yield a cleared matching photograph. Not downloaded. Project 02 replaced by the owner-approved Museum of Independence and Independence Monument; retained as historical research only.",
+      "additionalSources": [
+        {
+          "sourcePage": "https://www.moma.org/collection/works/468926",
+          "creator": null,
+          "license": null,
+          "reason": "MoMA directs image reproduction requests to Art Resource or Scala Archives; no permission obtained."
+        },
+        {
+          "sourcePage": "https://enfilade.guide/en/whats-on/from-dohar-to-delft?all=1",
+          "reason": "The licensed photograph on this event listing depicts the botanical garden museum building, not Khudi Bari. Not used."
+        }
+      ]
+    },
+    {
+      "filename": "images/museum-of-independence.webp",
+      "title": "Independence Monument glass tower.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Independence_Monument_glass_tower.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Independence_Monument_glass_tower.jpg",
+      "creator": "Masumcity",
+      "creatorMetadata": "Commons summary and structured data: Masumcity. Embedded EXIF Author: Farruk Ahmed Bhuiyan.",
+      "credit": "Masumcity (Commons metadata: Farruk Ahmed Bhuiyan)",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit the creator, link source and CC BY-SA 4.0, retain previous modifications, identify conversion and distribute the image adaptation under CC BY-SA 4.0. Do not imply endorsement.",
+      "status": "available",
+      "originalDimensions": [
+        3800,
+        2233
+      ],
+      "dimensions": [
+        1600,
+        940
+      ],
+      "bytes": 191864,
+      "sha256": "09a419707435f0ed50e2d995700d03c037455e33be6112a843d823f2ded477e0",
+      "changes": "Dust-spot correction by Robert Flogaus-Faust (Commons revision, 10 November 2019). Converted to WebP, recompressed and proportionally resized by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0.",
+      "alt": "Glass memorial tower and terracotta mural beside the public plaza and curved pool above the Museum of Independence in Dhaka, Bangladesh.",
+      "subjectVerification": "Commons description identifies the plaza over the Museum of Independence, Dhaka, with Independence Monument and mural. Downloaded image visually inspected; tower, mural, plaza and curved pool match the project. MTA official documentation confirms the underground museum and glass-clad tower.",
+      "photographDate": "2019-09-17",
+      "inheritedModification": {
+        "creator": "Robert Flogaus-Faust",
+        "date": "2019-11-10",
+        "description": "dust spot fixed",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Independence_Monument_glass_tower.jpg#filehistory"
+      }
+    }
+  ],
+  "projectAttributions": [
+    {
+      "project": "Bait Ur Rouf Mosque",
+      "credit": "Marina Tabassum Architects (MTA), led by Marina Tabassum",
+      "sourcePage": "https://www.soane.org/soane-medal/2021-marina-tabassum",
+      "evidence": "Tabassum describes designing the mosque as the first commission of MTA; her grandmother donated land and the local community contributed funding."
+    },
+    {
+      "project": "Museum of Independence and Independence Monument",
+      "credit": "Design: Marina Tabassum and Kashef Mahboob Chowdhury, collaborators through URBANA.",
+      "sourcePage": "https://marinatabassumarchitects.com/museum-of-independence/",
+      "evidence": "Official MTA documentation names Marina Tabassum and Kashef Mahboob Chowdhury as designers through URBANA and describes the underground museum, public square and glass-clad Independence Monument."
+    },
+    {
+      "project": "Serpentine Pavilion 2025 — A Capsule in Time",
+      "credit": "Marina Tabassum and Marina Tabassum Architects (MTA); commissioned by Serpentine",
+      "sourcePage": "https://www.serpentinegalleries.org/about/press/marina-tabassum-and-her-firm-marina-tabassum-architects-mta-selected-for-the-serpentine-pavilion-2025/",
+      "evidence": "Official commission announcement explicitly credits Tabassum and MTA."
+    }
+  ]
+}

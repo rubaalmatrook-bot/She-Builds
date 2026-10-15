@@ -614,11 +614,19 @@ window.sheBuildsProfiles = [
     },
     "portrait": {
       "path": "images/marina-tabassum-portrait.webp",
-      "status": "placeholder",
+      "status": "available",
       "placeholder": "[ADD: portrait of Marina Tabassum]",
-      "alt": "Placeholder for portrait of Marina Tabassum; photograph pending.",
-      "credit": null,
-      "license": null
+      "alt": "Marina Tabassum wearing glasses and speaking into a microphone at Columbia University, with one hand raised.",
+      "credit": "GSAPPstudent",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marina_Tabassum_(2019).jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Marina_Tabassum_%282019%29.jpg",
+      "changes": "Converted to WebP, recompressed and proportionally resized to a maximum of 1600 pixels per side by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0. The Commons portrait is derived from Marina Tabassum at Columbia GSAPP 4.jpg. Displayed in grayscale using CSS; gallery presentation uses a centered 3:4 display crop. Saved image remains uncropped.",
+      "dimensions": [
+        1366,
+        1600
+      ]
     },
     "projects": [
       {
@@ -629,34 +637,50 @@ window.sheBuildsProfiles = [
         "sourceIds": [
           "soane-tabassum"
         ],
-        "credit": null,
+        "credit": "Design: Marina Tabassum Architects (MTA), led by Marina Tabassum.",
         "completionDate": null,
         "image": {
           "path": "images/bait-ur-rouf.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Bait Ur Rouf Mosque]",
-          "alt": "Placeholder for Bait Ur Rouf Mosque; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Interior of Bait Ur Rouf Mosque in Dhaka, with exposed brick walls, ceiling fans and small roof openings admitting points of daylight.",
+          "credit": "Aashaa",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bait_Ur_Rouf_mosque.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bait_Ur_Rouf_mosque.jpg",
+          "changes": "Converted to WebP, recompressed and proportionally resized to a maximum of 1600 pixels per side by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0.",
+          "dimensions": [
+            1600,
+            1200
+          ]
         }
       },
       {
-        "id": "khudi-bari",
-        "name": "Khudi Bari",
-        "description": "A lightweight modular housing system using bamboo and steel joints.",
+        "id": "museum-of-independence",
+        "name": "Museum of Independence and Independence Monument",
+        "description": "In Dhaka, an underground museum preserves space above for a public plaza and a slender, glass-clad memorial tower. Together, the museum and monument commemorate Bangladesh’s struggle for independence.",
         "status": "verified",
         "sourceIds": [
-          "soane-tabassum"
+          "mta-museum-of-independence"
         ],
-        "credit": null,
+        "credit": "Design: Marina Tabassum and Kashef Mahboob Chowdhury, collaborators through URBANA.",
         "completionDate": null,
         "image": {
-          "path": "images/khudi-bari.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: Khudi Bari]",
-          "alt": "Placeholder for Khudi Bari; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/museum-of-independence.webp",
+          "status": "available",
+          "placeholder": "[ADD: Museum of Independence and Independence Monument]",
+          "alt": "Glass memorial tower and terracotta mural beside the public plaza and curved pool above the Museum of Independence in Dhaka, Bangladesh.",
+          "credit": "Masumcity (Commons metadata: Farruk Ahmed Bhuiyan)",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Independence_Monument_glass_tower.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Independence_Monument_glass_tower.jpg",
+          "changes": "Dust-spot correction by Robert Flogaus-Faust (Commons revision, 10 November 2019). Converted to WebP, recompressed and proportionally resized by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0.",
+          "dimensions": [
+            1600,
+            940
+          ]
         }
       },
       {
@@ -667,15 +691,23 @@ window.sheBuildsProfiles = [
         "sourceIds": [
           "serpentine-tabassum"
         ],
-        "credit": "Marina Tabassum Architects (MTA)",
+        "credit": "Design: Marina Tabassum and Marina Tabassum Architects (MTA). Commissioned by Serpentine.",
         "completionDate": null,
         "image": {
           "path": "images/serpentine-pavilion-2025.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Serpentine Pavilion 2025 — A Capsule in Time]",
-          "alt": "Placeholder for Serpentine Pavilion 2025 — A Capsule in Time; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Serpentine Pavilion 2025, A Capsule in Time, with an arched timber frame and translucent panels behind a tree, and visitors seated along its edges.",
+          "credit": "Images George Rex",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Serpentine_Gallery_Pavilion_2025_I.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Serpentine_Gallery_Pavilion_2025_I.jpg",
+          "changes": "Converted to WebP, recompressed and proportionally resized to a maximum of 1600 pixels per side by She Builds; no additional cropping or color changes. This image adaptation is licensed CC BY-SA 4.0.",
+          "dimensions": [
+            1600,
+            1067
+          ]
         }
       }
     ],
@@ -689,135 +721,183 @@ window.sheBuildsProfiles = [
         "id": "serpentine-tabassum",
         "label": "Serpentine — Marina Tabassum and MTA, Pavilion 2025",
         "url": "https://www.serpentinegalleries.org/about/press/marina-tabassum-and-her-firm-marina-tabassum-architects-mta-selected-for-the-serpentine-pavilion-2025/"
+      },
+      {
+        "id": "serpentine-tabassum-projects",
+        "label": "Serpentine — Pavilion 2025: MTA and FACE project information",
+        "url": "https://www.serpentinegalleries.org/whats-on/serpentine-pavilion-2025-by-marina-tabassum/"
+      },
+      {
+        "id": "mta-museum-of-independence",
+        "label": "Marina Tabassum Architects — Museum of Independence",
+        "url": "https://marinatabassumarchitects.com/museum-of-independence/"
       }
     ],
-    "pending": [
-      "Photograph selection, permission, credit and final image-specific alt text."
-    ]
+    "pending": []
   },
   {
-    "id": "sarah-sadeq",
-    "name": "Sarah Sadeq",
-    "country": "Kuwait",
-    "region": "Kuwait",
-    "verified": false,
-    "publicationStatus": "prepared-unpublished",
-    "countryNote": "Geographic associations selected by the site owner; not a citizenship claim.",
+    "id": "farshid-moussavi",
+    "name": "Farshid Moussavi",
+    "country": "Iran / United Kingdom",
+    "region": "Iran / United Kingdom",
+    "verified": true,
+    "publicationStatus": "published",
+    "countryNote": "Iranian-born British architect; geographic label records her documented background.",
     "background": {
       "status": "verified",
-      "text": "Sarah Sadeq founded an independent architecture practice in Kuwait. Her practice works across architecture, interiors and landscape, including residential and hospitality projects.",
+      "text": "Iranian-born British architect Farshid Moussavi leads Farshid Moussavi Architecture (FMA). She trained at Dundee, University College London and Harvard, and previously co-founded Foreign Office Architects, where she worked collaboratively on major public buildings.",
       "sourceIds": [
-        "ssa"
+        "fma-bio",
+        "ucl-moussavi"
       ]
     },
     "approach": {
       "status": "verified",
-      "text": "Her practice’s Dubai palace project combines Arabic architectural references with contemporary forms, while an Al-Zahraa villa draws on yacht design. These examples show how different references can shape a home.",
+      "text": "Moussavi explores how space, materials and movement shape the experience of a building. Her projects bring flexible uses and public gathering spaces together, inviting people to encounter architecture in different ways.",
       "sourceIds": [
-        "ssa-dubai",
-        "ssa-zahraa"
+        "fma-yokohama",
+        "fma-ravensbourne",
+        "fma-cleveland"
       ]
     },
     "fact": {
       "status": "verified",
-      "text": "Her practice biography identifies her as a graduate of Roger Williams University in the United States.",
+      "text": "Alongside designing buildings, she writes about architecture, including a series of books exploring ornament, form and style.",
       "sourceIds": [
-        "ssa"
+        "fma-bio"
       ]
     },
     "portrait": {
-      "path": "images/sarah-sadeq-portrait.webp",
-      "status": "placeholder",
-      "placeholder": "[ADD: portrait of Sarah Sadeq]",
-      "alt": "Placeholder for portrait of Sarah Sadeq; photograph pending.",
-      "credit": null,
-      "license": null
+      "path": "images/farshid-moussavi-portrait.webp",
+      "status": "available",
+      "alt": "Farshid Moussavi standing against a pale wall, wearing a black top and looking toward the camera.",
+      "credit": "Armin Linke",
+      "license": "Copyrighted free use (Wikimedia VRT-confirmed)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Farshid_Moussavi.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Farshid_Moussavi.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits. Displayed in grayscale using CSS, with a centered 3:4 gallery crop; the saved photograph retains its original colors and composition.",
+      "dimensions": [
+        1181,
+        1586
+      ]
     },
     "projects": [
       {
-        "id": "ssa-dubai-palace",
-        "name": "ARCH-UAE-DUBAI-10000-WAAA",
-        "description": "Official portfolio code for a private palace project in Dubai; a public project name and completion status are pending.",
+        "id": "yokohama-port-terminal",
+        "name": "Yokohama International Port Terminal, Japan",
+        "description": "A passenger terminal designed to connect travel with everyday waterfront life. Interlinked routes lead to ships, a public roof plaza and flexible indoor spaces that can also host events.",
         "status": "verified",
         "sourceIds": [
-          "ssa-dubai"
+          "fma-yokohama",
+          "harvard-foa"
         ],
-        "credit": "Sarah Sadeq Architects; individual team roles pending",
+        "credit": "Design: Foreign Office Architects (FOA), including Farshid Moussavi and Alejandro Zaera-Polo.",
         "completionDate": null,
         "image": {
-          "path": "images/ssa-dubai-palace.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: ARCH-UAE-DUBAI-10000-WAAA]",
-          "alt": "Placeholder for ARCH-UAE-DUBAI-10000-WAAA; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/yokohama-port-terminal.webp",
+          "status": "available",
+          "alt": "Boarding area at Yokohama International Passenger Terminal, with a passenger gangway, docked ship and part of the terminal at the right.",
+          "credit": "Syced",
+          "license": "CC0 1.0 Universal Public Domain Dedication",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Yokohama_International_Passenger_Terminal_10.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Yokohama_International_Passenger_Terminal_10.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits.",
+          "dimensions": [
+            1600,
+            1200
+          ]
         }
       },
       {
-        "id": "ssa-alzahraa-villa",
-        "name": "ARCH-KWT-ALZAHRAA-5000-FLYBBI",
-        "description": "Official portfolio code for a villa in Al-Zahraa, Kuwait, inspired by yacht architecture; completion status is pending.",
+        "id": "ravensbourne-college",
+        "name": "Ravensbourne College, London",
+        "description": "A school for digital media and design with flexible studios arranged around connected atriums. Its patterned aluminium cladding and varied circular windows give the building a distinctive presence on Greenwich Peninsula.",
         "status": "verified",
         "sourceIds": [
-          "ssa-zahraa"
+          "fma-ravensbourne",
+          "fma-bio",
+          "harvard-foa"
         ],
-        "credit": "Sarah Sadeq Architects; individual team roles pending",
+        "credit": "Design: Foreign Office Architects (FOA), including Farshid Moussavi and Alejandro Zaera-Polo.",
         "completionDate": null,
         "image": {
-          "path": "images/ssa-alzahraa-villa.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: ARCH-KWT-ALZAHRAA-5000-FLYBBI]",
-          "alt": "Placeholder for ARCH-KWT-ALZAHRAA-5000-FLYBBI; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/ravensbourne-college.webp",
+          "status": "available",
+          "alt": "Ravensbourne College in Greenwich, London, with a patterned tiled facade and circular windows above street-level hoardings.",
+          "credit": "Paul Gillett",
+          "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ravensbourne_College_-_geograph.org.uk_-_1899045.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ravensbourne_College_-_geograph.org.uk_-_1899045.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits. This image adaptation remains under CC BY-SA 2.0.",
+          "dimensions": [
+            1600,
+            1200
+          ]
         }
       },
       {
-        "id": "ssa-riyadh-residence",
-        "name": "ARCH-KSA-ALRIYADH-1840-IBRHMJMZ",
-        "description": "A residence in Riyadh, Saudi Arabia, combining textured stone with geometric forms, deep facade recesses and layered volumes. Listed under this portfolio identifier on the firm’s official website.",
+        "id": "moca-cleveland",
+        "name": "Museum of Contemporary Art Cleveland, USA",
+        "description": "A contemporary art museum with an angular, reflective stainless-steel exterior that changes with the light and its surroundings. Flexible galleries and a public plaza support exhibitions, events and everyday encounters.",
         "status": "verified",
         "sourceIds": [
-          "ssa-riyadh"
+          "fma-cleveland"
         ],
-        "credit": "Sarah Sadeq Architects",
+        "credit": "Design: Farshid Moussavi Architecture (FMA). Local architect: Westlake Reed Leskosky.",
         "completionDate": null,
         "image": {
-          "path": "images/ssa-riyadh-residence.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: ARCH-KSA-ALRIYADH-1840-IBRHMJMZ]",
-          "alt": "Placeholder for the Riyadh residence ARCH-KSA-ALRIYADH-1840-IBRHMJMZ; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/moca-cleveland.webp",
+          "status": "available",
+          "alt": "Museum of Contemporary Art Cleveland, with an angular reflective exterior, tall glazed entrance and paved plaza framed by trees.",
+          "credit": "Dean Kaufmann",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museum_of_Contemporary_Art_Cleveland.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Museum_of_Contemporary_Art_Cleveland.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits. This image adaptation remains under CC BY-SA 4.0.",
+          "dimensions": [
+            875,
+            636
+          ]
         }
       }
     ],
     "sources": [
       {
-        "id": "ssa",
-        "label": "Sarah Sadeq Architects — official practice biography",
-        "url": "https://sarahsadeq.com/"
+        "id": "fma-bio",
+        "label": "FMA — Farshid Moussavi biography",
+        "url": "https://www.farshidmoussavi.com/farshid-moussavi/"
       },
       {
-        "id": "ssa-dubai",
-        "label": "SSA — ARCH-UAE-DUBAI-10000-WAAA",
-        "url": "https://sarahsadeq.com/projects/arch-uae-dubai-10000-waaa/"
+        "id": "ucl-moussavi",
+        "label": "UCL — Farshid Moussavi: background and education",
+        "url": "https://www.ucl.ac.uk/bartlett/news/2024/dec/bartlett-alumna-farshid-moussavi-obe-ra-coordinates-royal-academy-summer-exhibition-2025"
       },
       {
-        "id": "ssa-zahraa",
-        "label": "SSA — ARCH-KWT-ALZAHRAA-5000-FLYBBI",
-        "url": "https://sarahsadeq.com/projects/arch-kwt-alzahraa-5000-flybbi/"
+        "id": "fma-yokohama",
+        "label": "FMA — Yokohama International Port Terminal (FOA)",
+        "url": "https://www.farshidmoussavi.com/fmaprojects/yokohama-international-port-terminal-yokohama-japan/"
       },
       {
-        "id": "ssa-riyadh",
-        "label": "Sarah Sadeq Architects — ARCH-KSA-ALRIYADH-1840-IBRHMJMZ",
-        "url": "https://sarahsadeq.com/projects/arch-ksa-alriyadh-1840-ibrhmjmz/"
+        "id": "fma-ravensbourne",
+        "label": "FMA — Ravensbourne College (FOA)",
+        "url": "https://www.farshidmoussavi.com/fmaprojects/ravensbourne-college-london/"
+      },
+      {
+        "id": "fma-cleveland",
+        "label": "FMA — Museum of Contemporary Art Cleveland",
+        "url": "https://www.farshidmoussavi.com/fmaprojects/museum-of-contemporary-art-cleveland-cleveland-usa/"
+      },
+      {
+        "id": "harvard-foa",
+        "label": "Harvard GSD — FOA collaboration documentation",
+        "url": "https://www.gsd.harvard.edu/wp-content/uploads/2016/06/moussavi-publications-about.pdf"
       }
     ],
-    "pending": [
-      "Public names, completion status and detailed team credits for portfolio projects.",
-      "Photograph selection, permissions, credits and final alt text."
-    ]
+    "pending": []
   },
   {
     "id": "eileen-gray",
@@ -850,11 +930,18 @@ window.sheBuildsProfiles = [
     },
     "portrait": {
       "path": "images/eileen-gray-portrait.webp",
-      "status": "placeholder",
-      "placeholder": "[ADD: portrait of Eileen Gray]",
-      "alt": "Placeholder for portrait of Eileen Gray; photograph pending.",
-      "credit": null,
-      "license": null
+      "status": "available",
+      "alt": "Black-and-white profile portrait of Eileen Gray, with short dark hair, facing left.",
+      "credit": "Unknown photographer",
+      "license": "Public domain, as recorded by Wikimedia Commons (PD-old / Public Domain Mark)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eileen_Gray.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/6/60/Eileen_Gray.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; no resizing, cropping or artistic edits. Existing CSS grayscale and centered 3:4 gallery framing apply; saved photograph remains uncropped.",
+      "dimensions": [
+        625,
+        442
+      ]
     },
     "projects": [
       {
@@ -865,54 +952,78 @@ window.sheBuildsProfiles = [
         "sourceIds": [
           "friends-e1027"
         ],
-        "credit": "Eileen Gray in collaboration with Jean Badovici",
+        "credit": "Architecture: Eileen Gray, in collaboration with Jean Badovici; Friends of e.1027 describes Gray as responsible for design and construction oversight, with Badovici assisting on technical matters.",
         "completionDate": null,
         "image": {
           "path": "images/e1027.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: E-1027]",
-          "alt": "Placeholder for E-1027; photograph pending.",
-          "credit": null,
-          "license": null
+          "status": "available",
+          "alt": "E-1027 House above the rocky Mediterranean shore, with white walls, slender supports, an exterior stair and blue balcony screens among trees.",
+          "credit": "Manuel Bougot / Europa Nostra",
+          "license": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+          "sourcePage": "https://www.flickr.com/photos/europanostra/52162487801",
+          "sourceLabel": "Europa Nostra / Flickr source",
+          "originalFile": "https://live.staticflickr.com/65535/52162487801_3d2b4290ee.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; no resizing, cropping or artistic edits. Noncommercial educational use only; this image adaptation remains under CC BY-NC-SA 2.0.",
+          "dimensions": [
+            500,
+            333
+          ]
         }
       },
       {
-        "id": "tempe-a-pailla",
-        "name": "Tempe à Pailla",
-        "description": "A smaller house she built for herself at Castellar, France.",
+        "id": "adjustable-table-e1027",
+        "name": "Adjustable Table E1027",
+        "description": "Furniture design: a height-adjustable side table that brings adaptability to everyday use. Its spare tubular frame gives practical adjustment a clear modern form. The photograph shows a later Aram-manufactured example in Manchester Art Gallery, not Gray's original prototype.",
         "status": "verified",
         "sourceIds": [
-          "design-museum-gray"
+          "classicon-e1027",
+          "commons-gray-table"
         ],
-        "credit": null,
+        "credit": "Furniture design: Eileen Gray.",
         "completionDate": null,
         "image": {
-          "path": "images/tempe-a-pailla.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: Tempe à Pailla]",
-          "alt": "Placeholder for Tempe à Pailla; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/eileen-gray-adjustable-table-e1027.webp",
+          "status": "available",
+          "alt": "A later Aram-manufactured example of Eileen Gray's Adjustable Table E1027 in Manchester Art Gallery, with a dark round top, polished metal stem and open circular base.",
+          "credit": "14GTR",
+          "license": "CC0 1.0 Universal Public Domain Dedication",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:E1027_table_by_Eileen_Gray,_Manchester_Art_Gallery_01.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/b/b9/E1027_table_by_Eileen_Gray%2C_Manchester_Art_Gallery_01.jpg",
+          "changes": "Converted to WebP, recompressed and proportionally resized by She Builds; no cropping or artistic edits.",
+          "dimensions": [
+            1298,
+            1600
+          ]
         }
       },
       {
-        "id": "lou-perou",
-        "name": "Lou Pérou",
-        "description": "Pending: verify the detailed scope of Gray’s conversion of a coastal home before writing a project description.",
-        "status": "pending",
+        "id": "s-bend-chair",
+        "name": "S-bend Chair",
+        "description": "Furniture design: an experimental folding chair with an S-bend frame. Its folding function connects an expressive modern shape with practical, adaptable living. The photographed object belongs to the Victoria and Albert Museum collection (CIRC.579-1971).",
+        "status": "verified",
         "sourceIds": [
-          "gray-lou-perou",
-          "design-museum-gray"
+          "vam-s-bend",
+          "vam-folding-chair",
+          "commons-gray-chair"
         ],
-        "credit": null,
+        "credit": "Furniture design: Eileen Gray.",
         "completionDate": null,
         "image": {
-          "path": "images/lou-perou.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: Lou Pérou, photograph and project details pending]",
-          "alt": "Placeholder for Lou Pérou, photograph and project details pending; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/eileen-gray-s-bend-chair.webp",
+          "status": "available",
+          "alt": "Eileen Gray's S-bend Chair in the Victoria and Albert Museum collection, with brown cushions and curved brown-and-cream side frames.",
+          "credit": "14GTR",
+          "license": "CC0 1.0 Universal Public Domain Dedication",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:S_Bend_chair_by_Eileen_Gray.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/5/51/S_Bend_chair_by_Eileen_Gray.jpg",
+          "changes": "Converted to WebP, recompressed and proportionally resized by She Builds; no cropping or artistic edits.",
+          "dimensions": [
+            1600,
+            1486
+          ]
         }
       }
     ],
@@ -931,11 +1042,43 @@ window.sheBuildsProfiles = [
         "id": "gray-lou-perou",
         "label": "Yale A&AePortal — Tempe a Pailla and Lou Pérou (chapter metadata)",
         "url": "https://aaeportal.com/images/202205/tempe-a-pailla-castellar-entry-foyer-dining-room-with-details-of-folding-banquette-and-bar-storage-system"
+      },
+      {
+        "id": "pompidou-gray",
+        "label": "Centre Pompidou — Eileen Gray exhibition guide (2013)",
+        "url": "https://www.centrepompidou.fr/media/document/5b/66/5b66d04b5e825c74afc470b56a573bcc/normal.pdf"
+      },
+      {
+        "id": "saint-tropez-gray",
+        "label": "Saint-Tropez Tourisme — Villa Lou Perou",
+        "url": "https://www.sainttropeztourisme.com/en/fiche/villa-lou-perou-maison-d-eileen-gray-4168649/"
+      },
+      {
+        "id": "classicon-e1027",
+        "label": "ClassiCon — Adjustable Table E1027",
+        "url": "https://www.classicon.com/en/product/adjustable-table-e-1027.html"
+      },
+      {
+        "id": "vam-s-bend",
+        "label": "V&A — Eileen Gray and her experimental S-bend chair",
+        "url": "https://www.vam.ac.uk/articles/eileen-gray-and-her-s-bend-chair"
+      },
+      {
+        "id": "vam-folding-chair",
+        "label": "V&A — Schools brochure, folding chair with S-bend frame (page 13)",
+        "url": "https://vanda-production-assets.s3.amazonaws.com/2019/06/06/15/35/54/89a95126-ecd2-423f-93da-585ce5457880/Updated%20schools%20brochure%202019.pdf"
+      },
+      {
+        "id": "commons-gray-table",
+        "label": "Commons — later Aram table example",
+        "url": "https://commons.wikimedia.org/wiki/File:E1027_table_by_Eileen_Gray,_Manchester_Art_Gallery_01.jpg"
+      },
+      {
+        "id": "commons-gray-chair",
+        "label": "Commons — S-bend Chair, V&A collection",
+        "url": "https://commons.wikimedia.org/wiki/File:S_Bend_chair_by_Eileen_Gray.jpg"
       }
     ],
-    "pending": [
-      "Lou Pérou: project name appears in scholarly chapter metadata; detailed scope and attribution still pending full-text verification.",
-      "Photograph permissions, credits and final alt text."
-    ]
+    "pending": []
   }
 ];

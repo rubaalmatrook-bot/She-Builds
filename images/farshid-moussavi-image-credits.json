@@ -1,0 +1,138 @@
+{
+  "scope": "Farshid Moussavi only; replaces Sarah Sadeq in the active collection",
+  "items": [
+    {
+      "status": "available",
+      "alt": "Farshid Moussavi standing against a pale wall, wearing a black top and looking toward the camera.",
+      "credit": "Armin Linke",
+      "license": "Copyrighted free use (Wikimedia VRT-confirmed)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:Copyrighted_free_use",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Farshid_Moussavi.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Farshid_Moussavi.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits. Displayed in grayscale using CSS, with a centered 3:4 gallery crop; the saved photograph retains its original colors and composition.",
+      "dimensions": [
+        1181,
+        1586
+      ],
+      "filename": "images/farshid-moussavi-portrait.webp",
+      "title": "Farshid Moussavi.jpg",
+      "creator": "Armin Linke",
+      "originalDimensions": [
+        1181,
+        1586
+      ],
+      "bytes": 54096,
+      "sha256": "69ccde4b9af0efa7fb3419090f48fcebf2d3081cb233fd0d56ef747d86d0ce10",
+      "attributionRequired": false,
+      "subjectVerification": "Commons description and structured data identify Farshid Moussavi; downloaded portrait visually inspected.",
+      "distributionTerms": "Copyright holder permits use for any purpose including redistribution, commercial use and modification; permission confirmed by Wikimedia VRT. Creator credited voluntarily. Not a Creative Commons license or public-domain claim.",
+      "vrtTicket": "2010092610005321"
+    },
+    {
+      "status": "available",
+      "alt": "Boarding area at Yokohama International Passenger Terminal, with a passenger gangway, docked ship and part of the terminal at the right.",
+      "credit": "Syced",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yokohama_International_Passenger_Terminal_10.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Yokohama_International_Passenger_Terminal_10.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits.",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "filename": "images/yokohama-port-terminal.webp",
+      "title": "Yokohama International Passenger Terminal 10.jpg",
+      "creator": "Syced",
+      "originalDimensions": [
+        4032,
+        3024
+      ],
+      "bytes": 223172,
+      "sha256": "0f86e2947ceb98906b576349ebc542921f10a3d5d76f909a6bb8ef0b24792b62",
+      "attributionRequired": false,
+      "subjectVerification": "Commons caption identifies Yokohama International Passenger Terminal and geolocation identifies Osanbashi. Visual inspection confirms a boarding-area view, not an overall view of the main building; no attribution of the gangway design to FOA is made.",
+      "distributionTerms": "CC0 1.0 permits copying, modification and redistribution without copyright permission or mandatory attribution. Creator credited voluntarily."
+    },
+    {
+      "status": "available",
+      "alt": "Ravensbourne College in Greenwich, London, with a patterned tiled facade and circular windows above street-level hoardings.",
+      "credit": "Paul Gillett",
+      "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ravensbourne_College_-_geograph.org.uk_-_1899045.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ravensbourne_College_-_geograph.org.uk_-_1899045.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits. This image adaptation remains under CC BY-SA 2.0.",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "filename": "images/ravensbourne-college.webp",
+      "title": "Ravensbourne College - geograph.org.uk - 1899045.jpg",
+      "creator": "Paul Gillett",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 424382,
+      "sha256": "5e20971eef1351e273b6daf9255a9c9577438eafb8098e70b08b6fcc03c27ea0",
+      "attributionRequired": true,
+      "subjectVerification": "Commons and original Geograph page identify Ravensbourne College in Greenwich. Visually inspected patterned facade and round windows match official project documentation.",
+      "distributionTerms": "Credit Paul Gillett and the supplied title, link source and CC BY-SA 2.0; indicate modifications and retain CC BY-SA 2.0 for this adaptation. No implied endorsement.",
+      "upstreamSource": "https://www.geograph.org.uk/photo/1899045"
+    },
+    {
+      "status": "available",
+      "alt": "Museum of Contemporary Art Cleveland, with an angular reflective exterior, tall glazed entrance and paved plaza framed by trees.",
+      "credit": "Dean Kaufmann",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Museum_of_Contemporary_Art_Cleveland.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Museum_of_Contemporary_Art_Cleveland.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to at most 1600 pixels per side where needed. No cropping or artistic edits. This image adaptation remains under CC BY-SA 4.0.",
+      "dimensions": [
+        875,
+        636
+      ],
+      "filename": "images/moca-cleveland.webp",
+      "title": "Museum of Contemporary Art Cleveland.jpg",
+      "creator": "Dean Kaufmann",
+      "originalDimensions": [
+        875,
+        636
+      ],
+      "bytes": 137886,
+      "sha256": "a86ee8f2463d05ccf638a1d0fde48e8bba14d1a3ea25067003ecf4914ac188e7",
+      "attributionRequired": true,
+      "subjectVerification": "Commons identifies MOCA Cleveland and Dean Kaufmann; visually inspected angular facade and glazed entrance match official practice documentation.",
+      "distributionTerms": "Credit Dean Kaufmann, link original source and CC BY-SA 4.0; indicate modifications and retain CC BY-SA 4.0 for this adaptation. No implied endorsement.",
+      "vrtTicket": "2023112610002251"
+    }
+  ],
+  "projectAttributions": [
+    {
+      "project": "Yokohama International Port Terminal, Japan",
+      "credit": "Design: Foreign Office Architects (FOA), including Farshid Moussavi and Alejandro Zaera-Polo.",
+      "sources": [
+        "https://www.farshidmoussavi.com/fmaprojects/yokohama-international-port-terminal-yokohama-japan/",
+        "https://www.gsd.harvard.edu/wp-content/uploads/2016/06/moussavi-publications-about.pdf"
+      ]
+    },
+    {
+      "project": "Ravensbourne College, London",
+      "credit": "Design: Foreign Office Architects (FOA), including Farshid Moussavi and Alejandro Zaera-Polo.",
+      "sources": [
+        "https://www.farshidmoussavi.com/fmaprojects/ravensbourne-college-london/",
+        "https://www.farshidmoussavi.com/farshid-moussavi/",
+        "https://www.gsd.harvard.edu/wp-content/uploads/2016/06/moussavi-publications-about.pdf"
+      ]
+    },
+    {
+      "project": "Museum of Contemporary Art Cleveland, USA",
+      "credit": "Design: Farshid Moussavi Architecture (FMA). Local architect: Westlake Reed Leskosky.",
+      "sources": [
+        "https://www.farshidmoussavi.com/fmaprojects/museum-of-contemporary-art-cleveland-cleveland-usa/"
+      ]
+    }
+  ]
+}

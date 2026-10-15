@@ -1,0 +1,190 @@
+{
+  "scope": "Eileen Gray only",
+  "items": [
+    {
+      "status": "available",
+      "alt": "Black-and-white profile portrait of Eileen Gray, with short dark hair, facing left.",
+      "credit": "Unknown photographer",
+      "license": "Public domain, as recorded by Wikimedia Commons (PD-old / Public Domain Mark)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eileen_Gray.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/6/60/Eileen_Gray.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; no resizing, cropping or artistic edits. Existing CSS grayscale and centered 3:4 gallery framing apply; saved photograph remains uncropped.",
+      "dimensions": [
+        625,
+        442
+      ],
+      "filename": "images/eileen-gray-portrait.webp",
+      "title": "Eileen Gray.jpg",
+      "creator": "Unknown photographer",
+      "bytes": 12948,
+      "sha256": "4ebd8e74c4b8cf7abcbe44f16089055e55d4e0e19abb8a611832be48bb1337cb",
+      "originalDimensions": [
+        625,
+        442
+      ],
+      "attributionRequired": false,
+      "licenseEvidence": "Commons identifies Eileen Gray and labels the unknown-author portrait public domain (PD-old and Public Domain Mark). No photographer name or first-publication date inferred; Commons lists circa 1910 but this is not independently asserted on the website.",
+      "distributionTerms": "No copyright attribution condition is stated by the Commons public-domain notice; retain source and unknown-photographer credit. Public Domain Mark is a status notice, not a Creative Commons license.",
+      "subjectVerification": "Source identifies the subject; downloaded photograph visually inspected against the source caption and architectural documentation."
+    },
+    {
+      "status": "available",
+      "alt": "E-1027 House above the rocky Mediterranean shore, with white walls, slender supports, an exterior stair and blue balcony screens among trees.",
+      "credit": "Manuel Bougot / Europa Nostra",
+      "license": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "sourcePage": "https://www.flickr.com/photos/europanostra/52162487801",
+      "sourceLabel": "Europa Nostra / Flickr source",
+      "originalFile": "https://live.staticflickr.com/65535/52162487801_3d2b4290ee.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; no resizing, cropping or artistic edits. Noncommercial educational use only; this image adaptation remains under CC BY-NC-SA 2.0.",
+      "dimensions": [
+        500,
+        333
+      ],
+      "filename": "images/e1027.webp",
+      "title": "Villa E-1027, Roquebrune-Cap-Martin, FRANCE",
+      "creator": "Manuel Bougot",
+      "bytes": 60060,
+      "sha256": "749ad7d880fb569f22785f7ea9643def4237bed8b568815eb1031d15cb218be3",
+      "originalDimensions": [
+        500,
+        333
+      ],
+      "attributionRequired": true,
+      "licenseEvidence": "Europa Nostra Flickr page explicitly identifies Villa E-1027, credits Manuel Bougot and links CC BY-NC-SA 2.0.",
+      "distributionTerms": "Credit Manuel Bougot and Europa Nostra, retain title/source and CC BY-NC-SA 2.0 link, identify conversion, limit to noncommercial use and retain CC BY-NC-SA 2.0 for the adaptation. No endorsement implied.",
+      "subjectVerification": "Source identifies the subject; downloaded photograph visually inspected against the source caption and architectural documentation."
+    },
+    {
+      "filename": "images/tempe-a-pailla.webp",
+      "subject": "Tempe à Pailla",
+      "status": "not-used-project-replaced",
+      "downloaded": false,
+      "creator": null,
+      "license": null,
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Quartier_de_Bellevesasses.jpg",
+          "creator": "Tangopaso",
+          "reason": "Neighbourhood view, not a verified direct house photograph; includes copyright warning about architectural work in France. Not used or cropped to isolate a building."
+        },
+        {
+          "url": "https://www.flickr.com/photos/ofhouses/20516541131",
+          "creator": "Not identified; credited copyright Centre Pompidou",
+          "license": "Uploader links CC BY-NC-SA 2.0",
+          "reason": "Third-party uploader credits Centre Pompidou, but authority to license that photograph is unconfirmed. Not downloaded."
+        },
+        {
+          "url": "https://docomomojournal.com/index.php/journal/article/view/665",
+          "reason": "Article CC BY 4.0 is not treated as an image-specific grant for the portfolio material credited National Museum of Ireland."
+        },
+        {
+          "url": "https://pop.culture.gouv.fr/notice/memoire/MHR93_04061513",
+          "reason": "Official archive identifies Tempe à Pailla; image reuse terms not confirmed."
+        }
+      ],
+      "decision": "Owner approved replacement with a photographed furniture design; historical permission research retained. No image downloaded."
+    },
+    {
+      "filename": "images/lou-perou.webp",
+      "subject": "Lou Pérou",
+      "status": "not-used-project-replaced",
+      "downloaded": false,
+      "creator": null,
+      "license": null,
+      "sources": [
+        {
+          "url": "https://www.sainttropeztourisme.com/en/fiche/villa-lou-perou-maison-d-eileen-gray-4168649/",
+          "reason": "Official tourism source verifies conversion of an old house, but no image-specific reuse grant established."
+        },
+        {
+          "url": "https://www.urbipedia.org/hoja/Archivo:EileenGray.LouPerou.jpg",
+          "reason": "Candidate file page inaccessible; creator and license not verified. No permission inferred from general website terms."
+        }
+      ],
+      "decision": "Owner approved replacement with a photographed furniture design; historical permission research retained. No image downloaded."
+    },
+    {
+      "status": "available",
+      "alt": "A later Aram-manufactured example of Eileen Gray's Adjustable Table E1027 in Manchester Art Gallery, with a dark round top, polished metal stem and open circular base.",
+      "credit": "14GTR",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:E1027_table_by_Eileen_Gray,_Manchester_Art_Gallery_01.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/b/b9/E1027_table_by_Eileen_Gray%2C_Manchester_Art_Gallery_01.jpg",
+      "changes": "Converted to WebP, recompressed and proportionally resized by She Builds; no cropping or artistic edits.",
+      "dimensions": [
+        1298,
+        1600
+      ],
+      "title": "E1027 table by Eileen Gray, Manchester Art Gallery 01.jpg",
+      "filename": "images/eileen-gray-adjustable-table-e1027.webp",
+      "originalDimensions": [
+        3456,
+        4260
+      ],
+      "bytes": 105276,
+      "sha256": "3c3ed43985daa86724e8c35b9f72568dbb76a9dbcf912b5ca085eedead63d45c",
+      "creator": "14GTR",
+      "attributionRequired": false,
+      "licenseEvidence": "The Commons file page identifies the object and 14GTR as the own-work photographer, and explicitly dedicates the photograph under CC0 1.0.",
+      "distributionTerms": "CC0 permits copying, modification and public website reuse without asking permission. Attribution is not a CC0 condition; photographer, source, CC0 link and conversion notice are retained voluntarily.",
+      "subjectVerification": "Commons identifies the later Aram example displayed in Manchester Art Gallery; ClassiCon confirms Gray's authorship and adjustable-height design."
+    },
+    {
+      "status": "available",
+      "alt": "Eileen Gray's S-bend Chair in the Victoria and Albert Museum collection, with brown cushions and curved brown-and-cream side frames.",
+      "credit": "14GTR",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:S_Bend_chair_by_Eileen_Gray.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/5/51/S_Bend_chair_by_Eileen_Gray.jpg",
+      "changes": "Converted to WebP, recompressed and proportionally resized by She Builds; no cropping or artistic edits.",
+      "dimensions": [
+        1600,
+        1486
+      ],
+      "title": "S Bend chair by Eileen Gray.jpg",
+      "filename": "images/eileen-gray-s-bend-chair.webp",
+      "originalDimensions": [
+        3324,
+        3087
+      ],
+      "bytes": 120536,
+      "sha256": "36bfd73423065b2bc1efdfd85b468d74948d5443859a13056af2ff57cff29008",
+      "creator": "14GTR",
+      "attributionRequired": false,
+      "licenseEvidence": "The Commons file page identifies the object and 14GTR as the own-work photographer, and explicitly dedicates the photograph under CC0 1.0.",
+      "distributionTerms": "CC0 permits copying, modification and public website reuse without asking permission. Attribution is not a CC0 condition; photographer, source, CC0 link and conversion notice are retained voluntarily.",
+      "subjectVerification": "Commons identifies the V&A object CIRC.579-1971; V&A documentation confirms Gray's authorship and the folding S-bend frame."
+    }
+  ],
+  "projectAttributions": [
+    {
+      "project": "E-1027",
+      "credit": "Architecture: Eileen Gray, in collaboration with Jean Badovici; Friends of e.1027 describes Gray as responsible for design and construction oversight, with Badovici assisting on technical matters.",
+      "sourcePage": "https://e1027.org/about"
+    },
+    {
+      "project": "Adjustable Table E1027",
+      "credit": "Furniture design: Eileen Gray.",
+      "sourcePage": "https://www.classicon.com/en/product/adjustable-table-e-1027.html"
+    },
+    {
+      "project": "S-bend Chair",
+      "credit": "Furniture design: Eileen Gray.",
+      "sourcePage": "https://www.vam.ac.uk/articles/eileen-gray-and-her-s-bend-chair"
+    }
+  ],
+  "alternativeResearch": {
+    "outcome": "Owner approved Adjustable Table E1027 and S-bend Chair as furniture designs replacing Tempe a Pailla and Lou Perou. Both approved CC0 photographs acquired and displayed; E-1027 unchanged.",
+    "screened": "Centre Pompidou guide identifies Galerie Jean Désert and the rue Chateaubriand studio for Jean Badovici; no suitable cleared project photograph verified. Furniture and models are not substituted for architecture."
+  },
+  "unusedCandidate": {
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:E1027_2013_01.jpg",
+    "creator": "Badovici (Commons username, not attributed to architect Jean Badovici)",
+    "license": "CC BY-SA 3.0",
+    "reason": "Detail of corroded fittings; provisional WebP replaced with Europa Nostra exterior photograph before integration. No unused original kept."
+  }
+}
