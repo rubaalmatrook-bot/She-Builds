@@ -1,7 +1,6 @@
 (() => {
   'use strict';
   const grid = document.querySelector('[data-archive]');
-  if (!grid) return; // Home stays a static Scheme C preview; no date-based selection.
   const profiles = (window.sheBuildsProfiles || []).filter(p => p.id && p.name && p.country);
   const target = document.querySelector('#archive-detail');
   const el = (tag, text, className) => {
@@ -63,6 +62,50 @@
     img.src = image.path;
     return frame;
   }
+  const daily = document.querySelector('[data-daily-portrait]');
+  if (daily) {
+    let displayedId;
+    let timer;
+    function updateDaily() {
+      clearTimeout(timer);
+      const now = new Date();
+      const p = window.sheBuildsDailyProfile(profiles, now);
+      if (p && p.id !== displayedId) {
+        displayedId = p.id;
+        daily.replaceChildren(photograph(p.portrait, `portrait of ${p.name}`));
+        const copy = el('div', '', 'profile-copy');
+        copy.append(el('p', `${now.toISOString().slice(0, 10)} · Today's architect · UTC`, 'eyebrow'), el('h2', p.name), el('p', p.country, 'eyebrow'));
+        for (const [label, field] of [['Her background', p.background], ['Her approach', p.approach]]) {
+          if (verified(p, field)) copy.append(el('h3', label), el('p', field.text), citations(p, field));
+        }
+        const link = el('a', `Read ${p.name}’s full Archive profile →`);
+        link.href = `archive.html?profile=${encodeURIComponent(p.id)}#archive-detail`;
+        copy.append(link);
+        document.querySelector('[data-profile]').replaceChildren(copy);
+        const projects = document.querySelector('[data-daily-projects]');
+        projects.replaceChildren();
+        p.projects.forEach((project, index) => {
+          if (!verified(p, project)) return;
+          const article = el('article');
+          const text = el('div');
+          text.append(el('p', `Project ${String(index + 1).padStart(2, '0')}`, 'number'), el('h3', project.name), el('p', project.description));
+          if (project.credit) text.append(el('p', project.credit, 'caption'));
+          text.append(citations(p, project));
+          article.append(photograph(project.image, project.name), text);
+          projects.append(article);
+        });
+        const fact = document.querySelector('[data-daily-fact]');
+        fact.replaceChildren();
+        if (verified(p, p.fact)) fact.append(el('p', p.fact.text), citations(p, p.fact));
+      }
+      const next = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + 1);
+      timer = setTimeout(updateDaily, Math.max(1, next - now.getTime()));
+    }
+    updateDaily();
+    document.addEventListener('visibilitychange', () => { if (!document.hidden) updateDaily(); });
+    window.addEventListener('pageshow', updateDaily);
+  }
+  if (!grid) return;
   function render(p, focus) {
     target.hidden = false;
     target.replaceChildren();

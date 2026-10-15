@@ -31,6 +31,11 @@ She Builds is an approachable, visually curated website that highlights one fema
 - Include attribution/credits for licensed photographs and factual sources where applicable.
 
 ## Content and verification rules
+### Approved automatic daily homepage rotation
+Daily rotation is now active, superseding earlier deferrals. Use the existing seven profiles in their `profiles.js` order: Zaha Hadid, Lina Bo Bardi, Kazuyo Sejima, Yasmeen Lari, Marina Tabassum, Farshid Moussavi and Eileen Gray. Anchor the repeating seven-day cycle to 1 January 2026 UTC (Zaha); select by whole UTC days elapsed modulo seven, independent of timezone, storage or refresh. Recheck at UTC midnight and when a suspended page becomes visible again. Keep profile data unchanged; use field-level verified sources rather than the older whole-profile publication flags.
+
+Replace homepage draft content with the selected name, country, biography, approach, fact and three projects, retaining collaboration credits, factual citations, original image credits/license links/modification notices, grayscale portrait and color project photographs. Link directly to the selected Archive profile. Preserve the asymmetric Scheme C layout and mini-index, mobile stacking, authentication and navigation. Update obsolete homepage/About preview wording. Test at least eight consecutive dates, same-day refresh consistency, UTC boundaries, JavaScript, navigation, auth regression behavior and desktop/mobile layout. Do not commit.
+
 ### Eileen Gray photography and project verification
 Approved furniture replacements: retain Project 01 (E-1027) unchanged; replace Tempe à Pailla with Adjustable Table E1027 and Lou Pérou with S-bend Chair. Present both explicitly as furniture designs by Eileen Gray, explaining how height adjustment and folding connect modern form with adaptable everyday use. Verify authorship and function through ClassiCon and the Victoria and Albert Museum. Identify the photographed table as a later Aram-manufactured example in Manchester Art Gallery, not Gray's original prototype; identify the photographed chair as part of the V&A collection. This supersedes the earlier instruction to retain the two house entries.
 

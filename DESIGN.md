@@ -22,6 +22,8 @@ For curious visitors of any age or background, not only architects. Within ten s
 These are reference *types*, not claims that a specific named site was selected. If a specific reference is added later, update this file before changing the site.
 
 ## Palette
+Today's Architect alone uses the richer warm beige `#D8C9B6` as its page background. Archive, About and login retain warm ivory. Homepage section headings use the existing editorial serif at weight 600 in deep charcoal `#282520`, visibly stronger than the earlier weight 500. Keep the featured architect's name prominent above the supporting section headings, with generous spacing and the existing responsive Scheme C split composition. Preserve portrait grayscale, color project photographs, all content and credits, navigation, daily rotation and authentication.
+
 - Warm ivory `#F5F0E8`: primary backgrounds.
 - Sand beige `#D8C9B6`: dividers, subtle surfaces, decorative accents.
 - Warm brown `#604B40`: secondary headings, captions, links and button backgrounds when contrast is verified.
@@ -30,6 +32,8 @@ These are reference *types*, not claims that a specific named site was selected.
 Maintain strong text/background contrast; use deep charcoal for small text on ivory.
 
 ## Typography
+The shared header masthead uses Cormorant Garamond at weight 500, with upright “She” and true italic “Builds,” in charcoal. Set the wordmark slightly larger (responsive 2.5–2.85rem), with restrained negative letter spacing, a shared baseline and an unbroken word pair. Load the italic face under a masthead-only font alias so other typography stays unchanged. Use the same treatment on Home, Archive, About and login, including the session-check wordmark. Header wordmarks link to `index.html`; signed-out visitors still pass through the existing authentication gate. Preserve all other layout, typography, navigation and page colors.
+
 Use free fonts from Google Fonts only:
 - Headings and brand: Cormorant Garamond, serif, 400–600. H1: clamp(3rem, 7vw, 5.5rem); H2: clamp(2rem, 4vw, 3.5rem); H3: 1.75rem.
 - Main paragraphs, captions, form labels and navigation: Libre Baskerville, serif, 400/700; body: 1rem, line-height 1.7; captions: 0.85rem; navigation: 0.9rem.

@@ -19,6 +19,13 @@ nav [aria-current="page"]{text-decoration-thickness:2px}a{transition:color 180ms
 .archive-card > .photo-frame img,#archive-detail > .photo-frame img{filter:grayscale(100%)}
 
 /* Authentication extends the existing editorial palette and typography. */
+/* Today's Architect only: warm beige canvas and stronger editorial headings. */
+body.split{background:var(--sand)}
+.split main h2,.split main h3{font-weight:600;color:var(--ink)}
+.split [data-profile] h2{font-size:clamp(3rem,6vw,4.5rem)}
+[data-daily-portrait] img{filter:grayscale(100%)}
+.split .layout > div{min-width:0}
+.split .profile-copy,.split .project-grid{overflow-wrap:anywhere}
 .auth-gate{max-width:760px;margin:80px auto;padding:24px}
 .logout-status{max-width:1152px;margin:0 auto;padding:0 24px;font-size:.8rem}
 .logout-status:empty{display:none}
@@ -41,3 +48,8 @@ button:disabled{opacity:.6;cursor:wait}
 [data-auth-status]{overflow-wrap:anywhere}
 .auth-form-panel [data-auth-status]{font-size:.85rem;min-height:3.4em}
 @media(max-width:700px){.auth-layout{grid-template-columns:1fr;gap:32px;padding-top:32px;padding-bottom:40px}.auth-form-panel{grid-row:1}.auth-modes{margin-top:24px}.logout-status{padding:0 18px}.login-page header .eyebrow{margin:0}}
+
+/* Shared editorial masthead; isolated italic face leaves other text unchanged. */
+@font-face{font-family:'She Builds Masthead';font-style:italic;font-weight:500;font-display:swap;src:url('https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf') format('truetype')}
+.brand{display:inline-block;font-size:clamp(2.5rem,3.6vw,2.85rem);font-style:normal;line-height:1.1;letter-spacing:-.025em;white-space:nowrap;color:var(--ink)}
+.brand em{font-family:'She Builds Masthead','Cormorant Garamond',Georgia,serif;font-style:italic;font-weight:500;letter-spacing:-.035em}
