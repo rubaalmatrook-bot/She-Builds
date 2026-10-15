@@ -4,7 +4,7 @@
 ## Selected direction — Scheme C: Split Editorial
 The student selected Scheme C after reviewing all three schemes. Preserve its asymmetric photograph-and-story columns, inset mini-index, editorial Cormorant Garamond headings and Libre Baskerville reading text, warm ivory/sand/brown/charcoal palette, and generous whitespace. Archive and About extend this visual language. Stack columns on phones. Use subtle 150–250ms hover/focus transitions and respect reduced motion.
 
-The current review milestone contains three public local content pages; authentication is deferred until the Supabase milestone. Missing content and photographs remain explicitly labeled drafts.
+The authentication milestone adds a public split-screen editorial login page and a session gate for the existing three content pages. Missing content and photographs remain explicitly labeled drafts.
 She Builds is a daily discovery website celebrating female architects from different countries and cultures. Each day it highlights one woman and introduces her background, architectural approach, three notable projects, and one engaging fact in language accessible to everyone.
 
 ## Audience and first impression
@@ -41,7 +41,7 @@ Use italic serif details sparingly. Prioritize readability over a magazine-like 
 - Space scale: 8, 16, 24, 40, 64, 96px; generous whitespace between sections.
 - The daily feature presents a clear title and lead image, followed by short readable content sections.
 - The Archive is an organized grid; navigation consistently reaches the three pages.
-- Add the sign-in gate in the later Supabase milestone; the current local review is ungated.
+- Home, Archive and About use the Supabase sign-in gate; login remains public.
 
 ## Images
 - Yasmeen Lari’s Project 03 is now Tomb of Sultan Ibrahim Conservation and uses the standard project photograph layout with visible credits. This supersedes the former PSO text-panel exception; preserve the Scheme C layout and all existing image treatments.

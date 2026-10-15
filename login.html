@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>She Builds — Log in</title>
+  <meta name="description" content="Log in or create an account to discover women shaping architecture across countries and cultures.">
+  <meta property="og:title" content="She Builds — Log in">
+  <meta property="og:description" content="Discover the women shaping the spaces around us.">
+  <meta property="og:image" content="https://she-builds-one.vercel.app/images/she-builds-share.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" defer></script>
+  <script src="supabase-config.js" defer></script>
+  <script src="auth.js" defer></script>
+</head>
+<body class="login-page">
+  <a class="skip" href="#main">Skip to content</a>
+  <header><a class="brand" href="login.html">She Builds</a><span class="eyebrow">Women shaping architecture</span></header>
+  <main id="main" class="auth-layout">
+    <figure class="auth-visual">
+      <img src="images/denso-hall.webp" width="1600" height="900" alt="Denso Hall’s buff stone facade, pointed arches and clock above a busy Karachi street, photographed in 2014.">
+      <figcaption class="caption">Denso Hall, Karachi · Conservation associated with Yasmeen Lari through Heritage Foundation of Pakistan. Original building design: James Strachan.<br>Photo: Kabir118 · <a href="https://commons.wikimedia.org/wiki/File:Denso_Hall,_Karachi_01.jpg">Wikimedia Commons source</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. Converted to WebP, recompressed and proportionally resized by She Builds; no cropping or color changes. This image adaptation is licensed CC BY-SA 3.0. Photograph taken in 2014, before completion of the later restoration.</figcaption>
+    </figure>
+    <section class="auth-form-panel" aria-labelledby="auth-title">
+      <p class="eyebrow">A collection of perspectives</p>
+      <h1 id="auth-title" data-form-title>Welcome back</h1>
+      <p>Discover the women shaping the spaces around us.</p>
+      <div class="auth-modes" role="group" aria-label="Choose log in or sign up">
+        <button type="button" data-auth-mode="login" aria-pressed="true" disabled>Log in</button>
+        <button type="button" data-auth-mode="signup" aria-pressed="false" disabled>Sign up</button>
+      </div>
+      <form data-auth-form aria-describedby="auth-status">
+        <label for="email">Email address</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+        <label for="password">Password</label>
+        <input id="password" name="password" type="password" autocomplete="current-password" minlength="1" required>
+        <button type="submit" class="auth-submit" disabled>Log in</button>
+      </form>
+      <p id="auth-status" data-auth-status role="status" aria-live="polite" aria-atomic="true">Loading sign-in. If this message remains, check your connection and reload.</p>
+      <noscript><p>Enable JavaScript to sign up or log in.</p></noscript>
+    </section>
+  </main>
+  <footer>She Builds · ARC 585 / Build Assignment 4 · Women shaping architecture</footer>
+</body>
+</html>

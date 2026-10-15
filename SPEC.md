@@ -80,6 +80,13 @@ Keep gray labeled image placeholders, the existing three content pages, Scheme C
 - Images must have meaningful alt text. Alert the student whenever an image is larger than 500 KB.
 
 ## Authentication gate (mandatory)
+### Current authentication implementation milestone
+Authentication is now authorized for ARC 585 Build Assignment 4, superseding earlier milestone deferrals. Add public `login.html` with a split editorial image/form layout, email/password sign-up and log-in via Supabase JS v2 CDN, and shared `auth.js` / public `supabase-config.js`. Use only the owner-supplied HTTPS project origin and `sb_publishable_` key; remove `/rest/v1/` from the supplied REST URL when initializing the client. Never use secrets, service-role keys or database passwords.
+
+Gate Home, Archive and About before revealing their content. Keep a visible session-check status and hide protected content until the session has been checked; redirect signed-out visitors to relative `login.html`, including direct page visits. Provide Log out on all protected pages and return to login after successful local-session sign-out. Recheck restored pages and respond to auth state changes. Show readable configuration, network and form errors, disable repeated submission, and handle sign-up without a session with an email-confirmation message. After successful sign-up with a session or log-in, go to `index.html`.
+
+Use the already licensed Denso Hall photograph on the public login page with its existing Kabir118 / CC BY-SA 3.0 attribution and conversion notice. Preserve Scheme C, palette, typography, profiles, photographs and existing content-page navigation. Collect only email/password for Supabase Auth; create no database tables. No daily rotation or Git commit. This static client-side gate is a coursework demonstration, not server-side access control for the downloadable site assets. Test using HTTP localhost or Vercel, not `file://`. JavaScript, links and responsive presentation can be checked now; live sign-up, log-in, log-out and signed-out protection remain for the owner's acceptance test before declaring authentication working.
+
 - Supabase email-and-password sign-up and log-in using the public Project URL and **publishable** key only, loaded with a Supabase CDN script tag.
 - `login.html` is NEVER gated.
 - `index.html` is the home page at the top level of the folder.
