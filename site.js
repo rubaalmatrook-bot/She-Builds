@@ -28,13 +28,48 @@
     box.setAttribute('role', 'img'); box.setAttribute('aria-label', `Missing photograph: ${label}`);
     box.append(el('span', `[ADD: ${label}]`)); return box;
   }
+  function hasPhoto(image) {
+    return image?.status === 'available' && image.path && image.alt && image.credit &&
+      image.license && image.sourcePage && image.licenseUrl;
+  }
+  function photoCredit(image) {
+    const caption = el('p', '', 'caption photo-credit');
+    caption.append(document.createTextNode(`Photo: ${image.credit} · `));
+    const source = el('a', 'Wikimedia Commons source'); source.href = image.sourcePage;
+    const license = el('a', image.license); license.href = image.licenseUrl;
+    caption.append(source, document.createTextNode(' · '), license);
+    if (image.changes) caption.append(document.createTextNode(`. ${image.changes}`));
+    return caption;
+  }
+  function photograph(image, label, includeCredit = true) {
+    if (!hasPhoto(image)) return placeholder(label);
+    const frame = el('div', '', 'photo-frame');
+    const fallback = placeholder(label);
+    const img = el('img'); img.alt = image.alt; img.hidden = true;
+    img.decoding = 'async';
+    if (image.dimensions) [img.width, img.height] = image.dimensions;
+    const caption = includeCredit ? photoCredit(image) : null;
+    if (caption) caption.hidden = true;
+    img.addEventListener('load', () => {
+      img.hidden = false; fallback.hidden = true;
+      if (caption) caption.hidden = false;
+    });
+    img.addEventListener('error', () => {
+      img.hidden = true; fallback.hidden = false;
+      if (caption) caption.hidden = true;
+    });
+    frame.append(fallback, img);
+    if (caption) frame.append(caption);
+    img.src = image.path;
+    return frame;
+  }
   function render(p, focus) {
     target.hidden = false;
     target.replaceChildren();
     const back = el('a', 'Back to the collection ↑'); back.href = '#collection';
     back.addEventListener('click', () => grid.querySelector(`[data-profile-id="${p.id}"]`).focus());
     const heading = el('h2', p.name, 'profile-heading'); heading.id = 'profile-title'; heading.tabIndex = -1;
-    target.append(back, heading, el('p', p.country, 'eyebrow'), placeholder(`portrait of ${p.name}`));
+    target.append(back, heading, el('p', p.country, 'eyebrow'), photograph(p.portrait, `portrait of ${p.name}`));
     for (const [label, field] of [['Her background', p.background], ['Her approach', p.approach]]) {
       target.append(el('h3', label));
       if (verified(p, field)) target.append(el('p', field.text), citations(p, field));
@@ -45,7 +80,7 @@
       const article = el('article', '', 'profile-project');
       article.append(el('p', `Project ${String(index + 1).padStart(2, '0')}`, 'number'));
       if (verified(p, project)) {
-        article.append(el('h4', project.name), placeholder(project.name), el('p', project.description));
+        article.append(el('h4', project.name), photograph(project.image, project.name), el('p', project.description));
         if (project.credit) article.append(el('p', project.credit, 'caption'));
         article.append(citations(p, project));
       } else {
@@ -68,12 +103,15 @@
     const a = el('a', '', 'archive-card');
     a.dataset.profileId = p.id;
     a.href = `archive.html?profile=${encodeURIComponent(p.id)}#archive-detail`;
-    a.append(placeholder(`portrait of ${p.name}`), el('h2', p.name), el('p', p.country), el('p', 'Read her story →', 'caption'));
+    a.append(photograph(p.portrait, `portrait of ${p.name}`, false), el('h2', p.name), el('p', p.country), el('p', 'Read her story →', 'caption'));
     a.addEventListener('click', event => {
       if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
       event.preventDefault(); history.pushState(null, '', a.href); render(p, true);
     });
-    grid.append(a);
+    if (hasPhoto(p.portrait)) {
+      const entry = el('div', '', 'archive-entry');
+      entry.append(a, photoCredit(p.portrait)); grid.append(entry);
+    } else grid.append(a);
   });
   function fromURL(focus) {
     const id = new URLSearchParams(location.search).get('profile');

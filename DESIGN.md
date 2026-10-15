@@ -44,6 +44,8 @@ Use italic serif details sparingly. Prioritize readability over a magazine-like 
 - Add the sign-in gate in the later Supabase milestone; the current local review is ungated.
 
 ## Images
+- All architect portraits in Archive gallery cards and selected profiles use CSS `filter: grayscale(100%)` for a consistent black-and-white editorial presentation. Apply this automatically to future portraits, without altering image files, credits or license records. Architectural project photographs retain their original colors. Preserve the existing 3:4 gallery frames, centered `object-fit: cover`, profile portrait sizing, layout and all other styling.
+- Archive gallery portrait frames use a consistent 3:4 aspect ratio and equal widths at each responsive breakpoint, including gray placeholders. Photographs fill the frame with `object-fit: cover` and centered positioning, without stretching. This is display-only cropping; preserve all original image files. Apply these rules automatically to future gallery portraits. Reserve consistent space for names, country labels and “Read her story” links so the cards align. Keep photo credits and license links visible outside the profile links. Profile-detail and project photographs retain their existing sizing; Scheme C, typography and palette remain unchanged.
 - Use only photographs and project images that the student has permission to use, or appropriately licensed materials with credit as needed.
 - Do not copy reference-site photographs or branding.
 - Each image is thoughtfully cropped in consistent frames; no aggressive filters. Use muted placeholder blocks labeled `[ADD: image of ...]` whenever an image is missing.

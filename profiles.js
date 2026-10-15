@@ -36,11 +36,19 @@ window.sheBuildsProfiles = [
     },
     "portrait": {
       "path": "images/zaha-hadid-portrait.webp",
-      "status": "placeholder",
+      "status": "available",
       "placeholder": "[ADD: portrait of Zaha Hadid]",
-      "alt": "Placeholder for portrait of Zaha Hadid; photograph pending.",
-      "credit": null,
-      "license": null
+      "alt": "Black-and-white portrait of Zaha Hadid standing in a dark jacket at the Heydar Aliyev Cultural Center.",
+      "credit": "Dmitry Ternovoy",
+      "license": "Free Art License 1.3",
+      "licenseUrl": "https://artlibre.org/licence/lal/en/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
+      "changes": "Converted to WebP and recompressed by the She Builds project; proportionally resized to at most 1600 pixels per side where needed. No crop or artistic edits.",
+      "dimensions": [
+        1268,
+        1238
+      ]
     },
     "projects": [
       {
@@ -55,11 +63,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/vitra-fire-station.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Vitra Fire Station]",
-          "alt": "Placeholder for Vitra Fire Station; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Vitra Fire Station with angular concrete walls and a sharply projecting canopy beneath a blue sky.",
+          "credit": "Marsupium",
+          "license": "CC0 1.0 Universal Public Domain Dedication",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Vitra_Campus_-_Hadid_Fire_Station_-_full_view%2C_blue_sky.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vitra_Campus_-_Hadid_Fire_Station_-_full_view%2C_blue_sky.jpg",
+          "changes": "Converted to WebP and recompressed by the She Builds project; proportionally resized to at most 1600 pixels per side where needed. No crop or artistic edits.",
+          "dimensions": [
+            1600,
+            1200
+          ]
         }
       },
       {
@@ -74,11 +90,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/bergisel-ski-jump.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Bergisel Ski Jump]",
-          "alt": "Placeholder for Bergisel Ski Jump; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "View down the snow-covered Bergisel ski-jump ramp toward Innsbruck, beside the glazed tower.",
+          "credit": "Andrew Bone",
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bergisel_Ski-Jump_%2832772304911%29.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bergisel_Ski-Jump_%2832772304911%29.jpg",
+          "changes": "Converted to WebP and recompressed by the She Builds project; proportionally resized to at most 1600 pixels per side where needed. No crop or artistic edits.",
+          "dimensions": [
+            1200,
+            1600
+          ]
         }
       },
       {
@@ -93,11 +117,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/rosenthal-center.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Richard and Lois Rosenthal Center for Contemporary Art]",
-          "alt": "Placeholder for Richard and Lois Rosenthal Center for Contemporary Art; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Corner view of the Rosenthal Center for Contemporary Art, with projecting gray and white building volumes above a Cincinnati street.",
+          "credit": "Eric Inglert",
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:CenterForContemporaryArtCorner.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/9/90/CenterForContemporaryArtCorner.jpg",
+          "changes": "Converted from JPEG to WebP and recompressed by She Builds. No resizing, cropping or other visual modifications.",
+          "dimensions": [
+            1024,
+            1024
+          ]
         }
       }
     ],
@@ -144,11 +176,19 @@ window.sheBuildsProfiles = [
     },
     "portrait": {
       "path": "images/lina-bo-bardi-portrait.webp",
-      "status": "placeholder",
+      "status": "available",
       "placeholder": "[ADD: portrait of Lina Bo Bardi]",
-      "alt": "Placeholder for portrait of Lina Bo Bardi; photograph pending.",
-      "credit": null,
-      "license": null
+      "alt": "Black-and-white portrait of Lina Bo Bardi wearing a necklace, looking to the side.",
+      "credit": "Unknown photographer",
+      "license": "Public domain in Brazil and United States (PD-Brazil-Photo)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-Brazil-Photo",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lina_Bo_Bardi.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+      "dimensions": [
+        400,
+        600
+      ]
     },
     "projects": [
       {
@@ -163,11 +203,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/casa-de-vidro.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Casa de Vidro]",
-          "alt": "Placeholder for Casa de Vidro; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Casa de Vidro raised on slender supports among trees, with a long glass-walled living space above a stone retaining wall.",
+          "credit": "Boaventuravinicius",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_de_Vidro_%28Morumbi%29.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/5/57/Casa_de_Vidro_%28Morumbi%29.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+          "dimensions": [
+            1600,
+            1200
+          ]
         }
       },
       {
@@ -182,11 +230,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/masp.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Museu de Arte de São Paulo (MASP)]",
-          "alt": "Placeholder for Museu de Arte de São Paulo (MASP); photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "MASP on Avenida Paulista, with a glass gallery suspended between red supports and pedestrians in the foreground.",
+          "credit": "Naldo Arruda",
+          "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:MASP_S%C3%A3o_Paulo.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/e/ed/MASP_S%C3%A3o_Paulo.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+          "dimensions": [
+            1600,
+            900
+          ]
         }
       },
       {
@@ -201,11 +257,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/sesc-pompeia.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Sesc Pompeia]",
-          "alt": "Placeholder for Sesc Pompeia; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Sesc Pompeia concrete towers linked by elevated bridges above a courtyard, with a cylindrical tower on the right.",
+          "credit": "Thomas Hobbs",
+          "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:SESCPompeia.jpg",
+          "originalFile": "https://live.staticflickr.com/37/98152484_f980d7bb3c_o.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds. No resizing, cropping or other visual edits.",
+          "dimensions": [
+            768,
+            1024
+          ]
         }
       }
     ],
@@ -256,11 +320,19 @@ window.sheBuildsProfiles = [
     },
     "portrait": {
       "path": "images/kazuyo-sejima-portrait.webp",
-      "status": "placeholder",
+      "status": "available",
       "placeholder": "[ADD: portrait of Kazuyo Sejima]",
-      "alt": "Placeholder for portrait of Kazuyo Sejima; photograph pending.",
-      "credit": null,
-      "license": null
+      "alt": "Kazuyo Sejima wearing dark-framed glasses and a checked sleeveless top, seated at a table outdoors.",
+      "credit": "Bruno Cordioli",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kazuyo_Sejima_%284943410568%29.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kazuyo_Sejima_%284943410568%29.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits. Gallery presentation uses a centered 3:4 display crop; the saved file remains uncropped.",
+      "dimensions": [
+        1067,
+        1600
+      ]
     },
     "projects": [
       {
@@ -275,11 +347,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/toledo-glass-pavilion.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Toledo Museum of Art Glass Pavilion]",
-          "alt": "Placeholder for Toledo Museum of Art Glass Pavilion; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Toledo Museum of Art Glass Pavilion with curved transparent walls and a flat white roof, seen across a lawn.",
+          "credit": "Warren LeMay",
+          "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Glass_Pavilion%2C_Toledo_Museum_of_Art%2C_Monroe_Street%2C_Old_West_End%2C_Toledo%2C_OH.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glass_Pavilion%2C_Toledo_Museum_of_Art%2C_Monroe_Street%2C_Old_West_End%2C_Toledo%2C_OH.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+          "dimensions": [
+            1600,
+            1200
+          ]
         }
       },
       {
@@ -294,11 +374,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/new-museum.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: New Museum of Contemporary Art]",
-          "alt": "Placeholder for New Museum of Contemporary Art; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "The New Museum in New York, with offset metal-clad box volumes rising above its street entrance.",
+          "credit": "Elisa.rolle",
+          "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:New_Museum%2C_NYC%2C_NY.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/d/d1/New_Museum%2C_NYC%2C_NY.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+          "dimensions": [
+            1071,
+            1600
+          ]
         }
       },
       {
@@ -313,11 +401,19 @@ window.sheBuildsProfiles = [
         "completionDate": null,
         "image": {
           "path": "images/rolex-learning-center.webp",
-          "status": "placeholder",
+          "status": "available",
           "placeholder": "[ADD: Rolex Learning Center]",
-          "alt": "Placeholder for Rolex Learning Center; photograph pending.",
-          "credit": null,
-          "license": null
+          "alt": "Rolex Learning Center illuminated at dusk, with an undulating roof and glass walls at EPFL in Lausanne.",
+          "credit": "Mikado1201",
+          "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rolex_Learning_center.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Rolex_Learning_center.jpg",
+          "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+          "dimensions": [
+            1024,
+            683
+          ]
         }
       }
     ],

@@ -1,0 +1,104 @@
+{
+  "scope": "Zaha Hadid only; images saved for future integration, not currently rendered.",
+  "items": [
+    {
+      "filename": "images/zaha-hadid-portrait.webp",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
+      "creator": "Dmitry Ternovoy",
+      "license": "Free Art License 1.3",
+      "licenseUrl": "https://artlibre.org/licence/lal/en/",
+      "attributionRequired": true,
+      "alt": "Black-and-white portrait of Zaha Hadid standing in a dark jacket at the Heydar Aliyev Cultural Center.",
+      "status": "saved-not-integrated",
+      "originalDimensions": [
+        1268,
+        1238
+      ],
+      "dimensions": [
+        1268,
+        1238
+      ],
+      "bytes": 98308,
+      "sha256": "6121b3b01c6d712197ec8e20a2a70ed563364b8693f1b6f2616b78c5b3d8726f",
+      "changes": "Converted to WebP and recompressed by the She Builds project; proportionally resized to at most 1600 pixels per side where needed. No crop or artistic edits.",
+      "attribution": "Zaha Hadid in Heydar Aliyev Cultural center in Baku nov 2013.jpg — Dmitry Ternovoy, via Wikimedia Commons. Free Art License 1.3. Converted to WebP and optimized by She Builds. Source: https://commons.wikimedia.org/wiki/File:Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg. License: https://artlibre.org/licence/lal/en/.",
+      "distributionTerms": "Retain author, source and license link; identify modifications; distribute this image under Free Art License 1.3 or a compatible license."
+    },
+    {
+      "filename": "images/vitra-fire-station.webp",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vitra_Campus_-_Hadid_Fire_Station_-_full_view%2C_blue_sky.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vitra_Campus_-_Hadid_Fire_Station_-_full_view%2C_blue_sky.jpg",
+      "creator": "Marsupium",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionRequired": false,
+      "alt": "Vitra Fire Station with angular concrete walls and a sharply projecting canopy beneath a blue sky.",
+      "status": "saved-not-integrated",
+      "originalDimensions": [
+        2560,
+        1920
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 99016,
+      "sha256": "b567b25dc7975c76e7208a0ba68b86ef4295eef9c1dc8e587336907862b52d97",
+      "changes": "Converted to WebP and recompressed by the She Builds project; proportionally resized to at most 1600 pixels per side where needed. No crop or artistic edits.",
+      "attribution": "Vitra Campus - Hadid Fire Station - full view, blue sky.jpg — Marsupium, via Wikimedia Commons. CC0 1.0 Universal Public Domain Dedication. Converted to WebP and optimized by She Builds. Source: https://commons.wikimedia.org/wiki/File:Vitra_Campus_-_Hadid_Fire_Station_-_full_view%2C_blue_sky.jpg. License: https://creativecommons.org/publicdomain/zero/1.0/.",
+      "distributionTerms": "Reuse and modification permitted without attribution; voluntary creator credit retained."
+    },
+    {
+      "filename": "images/bergisel-ski-jump.webp",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bergisel_Ski-Jump_%2832772304911%29.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bergisel_Ski-Jump_%2832772304911%29.jpg",
+      "creator": "Andrew Bone",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attributionRequired": true,
+      "alt": "View down the snow-covered Bergisel ski-jump ramp toward Innsbruck, beside the glazed tower.",
+      "status": "saved-not-integrated",
+      "originalDimensions": [
+        3672,
+        4896
+      ],
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "bytes": 184942,
+      "sha256": "6a7f00cbe6e68adeffc635a6842c9f9e679ec1dfdae5004163bc9d8bdff61eaa",
+      "changes": "Converted to WebP and recompressed by the She Builds project; proportionally resized to at most 1600 pixels per side where needed. No crop or artistic edits.",
+      "attribution": "Bergisel Ski-Jump (32772304911).jpg — Andrew Bone, via Wikimedia Commons. Creative Commons Attribution 2.0 Generic (CC BY 2.0). Converted to WebP and optimized by She Builds. Source: https://commons.wikimedia.org/wiki/File:Bergisel_Ski-Jump_%2832772304911%29.jpg. License: https://creativecommons.org/licenses/by/2.0/.",
+      "distributionTerms": "Credit author, link license, identify modifications; no endorsement implied."
+    },
+    {
+      "filename": "images/rosenthal-center.webp",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CenterForContemporaryArtCorner.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/9/90/CenterForContemporaryArtCorner.jpg",
+      "creator": "Eric Inglert",
+      "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionRequired": true,
+      "alt": "Corner view of the Rosenthal Center for Contemporary Art, with projecting gray and white building volumes above a Cincinnati street.",
+      "status": "available",
+      "distributionTerms": "Credit Eric Inglert, link the source and CC BY-SA 3.0 license, identify modifications; distribute adaptations under CC BY-SA 3.0 or a compatible license.",
+      "attribution": "CenterForContemporaryArtCorner.jpg — Eric Inglert, via Wikimedia Commons, CC BY-SA 3.0. Converted from JPEG to WebP and recompressed by She Builds; no resizing, cropping or other visual modifications. Source: https://commons.wikimedia.org/wiki/File:CenterForContemporaryArtCorner.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/.",
+      "originalDimensions": [
+        1024,
+        1024
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 226762,
+      "sha256": "48cb50eebf8cc9b14b6669d20c6671fb31d13224e64cdb9ac7a634e7ac829ef5",
+      "originalSha1": "5ae5adb27f814544fc9153eae76ff38692b301be",
+      "localOriginal": "images/CenterForContemporaryArtCorner.jpg",
+      "changes": "Converted from JPEG to WebP and recompressed by She Builds. No resizing, cropping or other visual modifications."
+    }
+  ],
+  "integrationNote": "Renderer and profiles.js are unchanged. Before public display, transfer credits, license links, source links and change notices into visible image captions/credits. Keep portrait under Free Art License 1.3 and its source accessible; keep Rosenthal adaptations under CC BY-SA 3.0 or compatible terms."
+}

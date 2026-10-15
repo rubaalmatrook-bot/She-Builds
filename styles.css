@@ -4,3 +4,16 @@
 nav [aria-current="page"]{text-decoration-thickness:2px}a{transition:color 180ms ease,background-color 180ms ease}.archive-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:40px 0}.archive-card{display:block;border:1px solid var(--sand);padding:16px;text-decoration:none}.archive-card h2{font-size:2rem}.archive-card:hover{background:#e7ded1}.reading{max-width:760px;padding-bottom:64px}.reading section{padding:24px 0;border-top:1px solid var(--sand)}[hidden]{display:none!important}@media(max-width:700px){.archive-grid{grid-template-columns:1fr}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 
 .archive-card,.reading{overflow-wrap:anywhere}.archive-card{min-width:0}.archive-card[aria-current="true"]{outline:2px solid var(--brown);outline-offset:3px}.profile-project{padding:24px 0;border-top:1px solid var(--sand)}.profile-project .placeholder{min-height:240px;margin:16px 0}.source-links{font-size:.8rem;line-height:1.8}.profile-heading:focus{outline:3px solid var(--brown);outline-offset:6px}@media(min-width:701px) and (max-width:1000px){.archive-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.photo-frame img{display:block;width:100%;max-width:100%;height:auto}.photo-frame{min-width:0;margin:16px 0}.archive-card .photo-frame{margin:0}.archive-entry{min-width:0}.photo-credit{overflow-wrap:anywhere;line-height:1.7}
+
+/* Uniform gallery portraits; originals and detail photographs stay untouched. */
+.archive-grid{align-items:start}
+.archive-card > .photo-frame,.archive-card > .placeholder{width:100%;aspect-ratio:3/4;min-height:0;margin:0;overflow:hidden;position:relative}
+.archive-card > .photo-frame img{width:100%;height:100%;object-fit:cover;object-position:center}
+.archive-card > .photo-frame > .placeholder{position:absolute;inset:0;min-height:0;height:100%;width:100%}
+.archive-card h2{min-height:2.1em;margin:16px 0 0}
+.archive-card > p:not(.caption){min-height:3.4em;margin:16px 0 0}
+.archive-card > .caption{margin:16px 0 0}
+
+/* Portraits only: project photographs retain their original colors. */
+.archive-card > .photo-frame img,#archive-detail > .photo-frame img{filter:grayscale(100%)}

@@ -1,0 +1,112 @@
+{
+  "scope": "Lina Bo Bardi only",
+  "items": [
+    {
+      "filename": "images/lina-bo-bardi-portrait.webp",
+      "title": "Lina Bo Bardi.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lina_Bo_Bardi.jpg",
+      "creator": "Unknown photographer",
+      "license": "Public domain in Brazil and United States (PD-Brazil-Photo)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-Brazil-Photo",
+      "attributionRequired": false,
+      "distributionTerms": "Commons documents PD-Brazil-Photo and US public-domain status. No copyright attribution condition under that basis; source and unknown creator credited voluntarily. This is not a CC license or a claim of worldwide public-domain status.",
+      "originalSource": "https://www1.folha.uol.com.br/ilustrada/2022/03/lina-bo-bardi-morta-ha-30-anos-ainda-tem-seu-impacto-no-brasil-de-hoje.shtml",
+      "status": "available",
+      "originalDimensions": [
+        400,
+        600
+      ],
+      "dimensions": [
+        400,
+        600
+      ],
+      "bytes": 29996,
+      "sha256": "48297154c32c8524a78d45f5c6f11e4fa859b255c88b6bb0aa949e32f797bdfe",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+      "alt": "Black-and-white portrait of Lina Bo Bardi wearing a necklace, looking to the side.",
+      "verification": "Subject identified by Commons file description and visually checked before integration.",
+      "attribution": "Lina Bo Bardi.jpg — Unknown photographer, via Wikimedia Commons. Public domain in Brazil and United States (PD-Brazil-Photo). Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits. Source: https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi.jpg. Terms: https://commons.wikimedia.org/wiki/Template:PD-Brazil-Photo."
+    },
+    {
+      "filename": "images/casa-de-vidro.webp",
+      "title": "Casa de Vidro (Morumbi).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_de_Vidro_%28Morumbi%29.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/5/57/Casa_de_Vidro_%28Morumbi%29.jpg",
+      "creator": "Boaventuravinicius",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit creator, source and license; indicate changes; keep adaptations under CC BY-SA 4.0 or a compatible license.",
+      "status": "available",
+      "originalDimensions": [
+        4000,
+        3000
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 479882,
+      "sha256": "1e4480faa436939f75709939c3b7a2448434d99b2256f3ade6023336cc0e542c",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+      "alt": "Casa de Vidro raised on slender supports among trees, with a long glass-walled living space above a stone retaining wall.",
+      "verification": "Subject identified by Commons file description and visually checked before integration.",
+      "attribution": "Casa de Vidro (Morumbi).jpg — Boaventuravinicius, via Wikimedia Commons. Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits. Source: https://commons.wikimedia.org/wiki/File:Casa_de_Vidro_%28Morumbi%29.jpg. Terms: https://creativecommons.org/licenses/by-sa/4.0/."
+    },
+    {
+      "filename": "images/masp.webp",
+      "title": "MASP São Paulo.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MASP_S%C3%A3o_Paulo.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/e/ed/MASP_S%C3%A3o_Paulo.jpg",
+      "creator": "Naldo Arruda",
+      "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit creator, source and license; indicate changes; do not imply endorsement.",
+      "originalSource": "https://www.flickr.com/photos/142898977@N08/49062462171/",
+      "status": "available",
+      "originalDimensions": [
+        4128,
+        2322
+      ],
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 345718,
+      "sha256": "78d0ac73b1855bafdf087e8646e8d942dda4f8ae4203967376f9d8c0eb597d95",
+      "changes": "Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits.",
+      "alt": "MASP on Avenida Paulista, with a glass gallery suspended between red supports and pedestrians in the foreground.",
+      "verification": "Subject identified by Commons file description and visually checked before integration.",
+      "attribution": "MASP São Paulo.jpg — Naldo Arruda, via Wikimedia Commons. Creative Commons Attribution 2.0 Generic (CC BY 2.0). Converted to WebP and recompressed by She Builds; proportionally resized to a maximum of 1600 pixels per side where needed. No cropping or other visual edits. Source: https://commons.wikimedia.org/wiki/File:MASP_S%C3%A3o_Paulo.jpg. Terms: https://creativecommons.org/licenses/by/2.0/."
+    },
+    {
+      "filename": "images/sesc-pompeia.webp",
+      "title": "SESCPompeia.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:SESCPompeia.jpg",
+      "originalSource": "https://www.flickr.com/photos/thomashobbs/98152484/",
+      "originalFile": "https://live.staticflickr.com/37/98152484_f980d7bb3c_o.jpg",
+      "creator": "Thomas Hobbs",
+      "license": "Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit Thomas Hobbs, link source and license, identify changes; distribute adaptations under CC BY-SA 2.0 or a compatible license.",
+      "status": "available",
+      "originalDimensions": [
+        768,
+        1024
+      ],
+      "dimensions": [
+        768,
+        1024
+      ],
+      "bytes": 85816,
+      "sha256": "0239bad445a2398dbf22f3d9d92bd26ce71129179423289938a55d4b45bc79a9",
+      "changes": "Converted to WebP and recompressed by She Builds. No resizing, cropping or other visual edits.",
+      "alt": "Sesc Pompeia concrete towers linked by elevated bridges above a courtyard, with a cylindrical tower on the right.",
+      "verification": "Subject identified by Commons file description and visually checked before integration.",
+      "attribution": "SESCPompeia.jpg — Thomas Hobbs, via Wikimedia Commons. Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0). Converted to WebP and recompressed by She Builds. No resizing, cropping or other visual edits. Source: https://commons.wikimedia.org/wiki/File:SESCPompeia.jpg. Terms: https://creativecommons.org/licenses/by-sa/2.0/."
+    }
+  ]
+}
