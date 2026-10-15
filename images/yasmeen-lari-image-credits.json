@@ -1,0 +1,207 @@
+{
+  "scope": "Yasmeen Lari portrait and all three current projects have licensed photographs.",
+  "items": [
+    {
+      "filename": "images/yasmeen-lari-portrait.webp",
+      "title": "Yasmeen Lari on BBC News.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yasmeen_Lari_on_BBC_News.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Yasmeen_Lari_on_BBC_News.jpg",
+      "creator": "BBC Urdu",
+      "license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attributionRequired": true,
+      "distributionTerms": "Credit BBC Urdu and original source, link CC BY 3.0, identify conversion and display modifications; do not imply endorsement.",
+      "licenseEvidence": "Commons license review on 5 February 2021 confirms the original BBC Urdu video was CC BY 3.0. The source is a video still, not a separately credited still photograph.",
+      "status": "available",
+      "originalDimensions": [
+        1369,
+        1165
+      ],
+      "dimensions": [
+        1369,
+        1165
+      ],
+      "bytes": 159842,
+      "sha256": "ddc39af918bcb1195b5ec41f6fe5e1573d7dffba65e97c08816109191406bffe",
+      "changes": "Converted to WebP and recompressed by She Builds without cropping or resizing. Displayed in grayscale using CSS; gallery presentation uses a centered 3:4 display crop. Original file colors and proportions are preserved.",
+      "alt": "Yasmeen Lari seated outdoors in a wicker chair, wearing a patterned scarf, with thatched buildings behind her.",
+      "subjectVerification": "Commons identifies Yasmeen Lari in a BBC Urdu interview; the downloaded still was visually checked against that source."
+    },
+    {
+      "filename": "images/angoori-bagh.webp",
+      "subject": "Angoori Bagh Housing, Lahore",
+      "status": "superseded-project-selection",
+      "sourcePage": "https://hiddenarchitecture.net/angoori-bagh-housing/",
+      "creator": "Kazi Khaleed Ashraf / Aga Khan Visual Archive (credited candidate images)",
+      "license": null,
+      "attributionRequired": null,
+      "reason": "Candidate photographs are credited to an archive; no explicit reuse license verified. Not downloaded. Commons results for Angoori Bagh at Agra Fort depict a different place. Owner approved replacement with Denso Hall Conservation; retained as historical research only."
+    },
+    {
+      "filename": "images/finance-trade-centre.webp",
+      "subject": "Finance and Trade Centre, Karachi",
+      "status": "superseded-project-selection",
+      "sourcePage": "https://dome.mit.edu/entities/picture/1c36ecda-cafb-422f-a9f0-d22caea3522f",
+      "creator": "Kazi Khaleed Ashraf",
+      "license": "All rights reserved; copyright Kazi Khaleed Ashraf 1987",
+      "attributionRequired": null,
+      "reason": "MIT record explicitly reserves rights; no reuse grant obtained. Not downloaded. Replaced by owner-approved Low-Cost Rural Housing body of work; retained as historical research."
+    },
+    {
+      "filename": "images/pso-headquarters.webp",
+      "subject": "Pakistan State Oil Headquarters, Karachi",
+      "status": "superseded-project-selection",
+      "sourcePage": "https://cdn.ca.emap.com/wp-content/uploads/sites/12/2019/09/pakistanstateoilhousekarachiyasmeenlari1991_380398245.pdf",
+      "creator": null,
+      "license": null,
+      "attributionRequired": null,
+      "reason": "Candidate project photograph found, but photographer and reuse permission could not be verified. Commons file PSO House, Clifton Karachi.jpg could not be retrieved; a historical mention on a user talk page is not permission. Not downloaded. Owner approved replacement with Tomb of Sultan Ibrahim Conservation; retained as historical research only."
+    },
+    {
+      "status": "available",
+      "placeholder": "[ADD: Denso Hall Conservation, Karachi]",
+      "alt": "Denso Hall’s buff stone facade, pointed arches and clock above a busy Karachi street, photographed in 2014.",
+      "credit": "Kabir118",
+      "license": "CC BY-SA 3.0 Unported",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Denso_Hall,_Karachi_01.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/1/19/Denso_Hall%2C_Karachi_01.jpg",
+      "changes": "Converted to WebP, recompressed and proportionally resized from 3264 × 1836 to 1600 × 900 by She Builds; no cropping or color changes. Photograph taken in 2014, before completion of the later restoration. This image adaptation is licensed CC BY-SA 3.0.",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "filename": "images/denso-hall.webp",
+      "creator": "Kabir118",
+      "title": "Denso Hall, Karachi 01.jpg",
+      "attributionRequired": true,
+      "distributionTerms": "Credit Kabir118, link original source and CC BY-SA 3.0, identify modifications, and distribute this adaptation under CC BY-SA 3.0; no endorsement implied.",
+      "originalDimensions": [
+        3264,
+        1836
+      ],
+      "bytes": 243230,
+      "originalSha1": "9a1a2f8259be6f31e124fd1fafedc7e9c7fd587b",
+      "sha256": "7e5d388dd81b2986827df96338252dba6593023b2fe3f91a82cb302cd9cc4003",
+      "subjectVerification": "Commons identifies Denso Hall (monument SD-P-18); original download SHA-1 matches the source record. Visually checked facade and clock. 2014 view does not claim to show completed 2023 conservation."
+    },
+    {
+      "status": "available",
+      "placeholder": "[ADD: Low-Cost Rural Housing]",
+      "alt": "Rural homes with rounded earth-colored walls, conical thatched roofs and a shared shaded courtyard, illustrating Yasmeen Lari’s rural housing work.",
+      "credit": "BBC Urdu",
+      "license": "CC BY 3.0 Unported",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yasmeen_Lari_Houses.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/7/76/Yasmeen_Lari_Houses.jpg",
+      "changes": "Illustrates Lari’s rural housing body of work; no specific village, building or LOG shelter is identified. Still from BBC Urdu’s 2020 report. Commons version was cropped, brightened and had its watermark removed. Converted to WebP and recompressed by She Builds at the original 2060 × 1052 dimensions, with no additional cropping or color changes.",
+      "dimensions": [
+        2060,
+        1052
+      ],
+      "filename": "images/yasmeen-lari-rural-housing.webp",
+      "creator": "BBC Urdu",
+      "title": "Yasmeen Lari Houses.jpg",
+      "attributionRequired": true,
+      "distributionTerms": "Credit BBC Urdu and link the source and CC BY 3.0 license; disclose inherited modifications and WebP conversion; do not imply endorsement.",
+      "licenseEvidence": "Commons file explicitly identifies CC BY 3.0; reviewed by Leoboudv on 5 February 2021.",
+      "subjectVerification": "BBC Urdu report and Commons description identify Lari’s environmentally friendly rural housing; no specific village, building, LOG design or 2022 flood initiative asserted. Download visually inspected.",
+      "originalVideo": "https://www.youtube.com/watch?v=CBhhuyXmSWg",
+      "originalDimensions": [
+        2060,
+        1052
+      ],
+      "bytes": 204492,
+      "originalSha1": "bf0c5cfad96a75d74e1d101bd6a7c7c448cbda3d",
+      "sha256": "1a44b652bd86fbb616a7aa4368e8e53f4f237a791e5ef875d5ab770d7e1b65f0"
+    },
+    {
+      "status": "available",
+      "placeholder": "[ADD: Tomb of Sultan Ibrahim, Makli]",
+      "alt": "Tomb of Sultan Ibrahim at Makli, Thatta, with a large brick dome, turquoise tile bands and pointed entrance arches, flanked by smaller monuments.",
+      "credit": "A.Savin, Wikipedia",
+      "license": "Free Art License 1.3",
+      "licenseUrl": "https://artlibre.org/licence/lal/en/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PK_Thatta_asv2020-02_img25_Makli_Necropolis.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a2/PK_Thatta_asv2020-02_img25_Makli_Necropolis.jpg",
+      "changes": "Photographed on 6 February 2020; this is the photograph date, not a conservation date. Converted to WebP, recompressed and proportionally resized from 6786 × 3817 to 1600 × 900 by She Builds; no cropping or color changes. This image adaptation remains available under Free Art License 1.3.",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "filename": "images/tomb-sultan-ibrahim.webp",
+      "creator": "A.Savin",
+      "requiredCredit": "A.Savin, Wikipedia",
+      "title": "PK Thatta asv2020-02 img25 Makli Necropolis.jpg",
+      "attributionRequired": true,
+      "distributionTerms": "Credit A.Savin, Wikipedia; identify original source and link FAL 1.3. Identify She Builds as converter/resizer and describe changes. Distribute this adaptation under FAL 1.3 and keep the separately accessible image free to reuse under those terms.",
+      "subjectVerification": "Commons explicitly identifies the Tomb of Sultan Ibrahim at Makli, Thatta. Downloaded image visually inspected; dome, tile bands and arches match the identified source.",
+      "photographDate": "2020-02-06",
+      "conservationDate": null,
+      "originalDimensions": [
+        6786,
+        3817
+      ],
+      "bytes": 171160,
+      "originalSha1": "135774e45e456ed179dc89538d2d4250c6ba75ef",
+      "sha256": "77ad87a5a84a68e4c1a7714d753d7119a156f8e3fdb1484cf8afcfef6d1a681d"
+    }
+  ],
+  "projectPhotoFollowUp": {
+    "outcome": "Historical PSO, FTC and Angoori Bagh searches retained for provenance. Owner approved Denso Hall, Low-Cost Rural Housing and Tomb of Sultan Ibrahim Conservation instead; all current selections now have licensed photographs.",
+    "searchCoverage": [
+      "Wikimedia Commons project names and spelling variants; accessible results did not establish a reusable matching project photograph; Commons API request returned HTTP 403.",
+      "Flickr project-name searches and Creative Commons / some-rights-reserved searches; located two named candidates, both explicitly All rights reserved in their image-specific license displays. Generic CC options embedded in Flickr HTML are not the selected image license.",
+      "Architectural archives: MIT Dome / Aga Khan Visual Archive, Architexturez South Asia, MoMA exhibition records.",
+      "Official sources: Architekturzentrum Wien Lari press archive, Pakistan State Oil copyright terms, FTC-related official tenant sources."
+    ],
+    "permissionStatus": "No permission requests sent; no documented permission received.",
+    "candidates": [
+      {
+        "project": "Angoori Bagh Housing",
+        "sourcePage": "https://architexturez.net/doc/az-cf-166704",
+        "creator": "Kazi Khaleed Ashraf / Aga Khan Award for Architecture (1987 views); Lari Associates (1979–80 views)",
+        "subjectEvidence": "Archive identifies Anguri Bagh Housing, Lahore and captions exterior, streetscape and walkways.",
+        "license": null,
+        "decision": "Not downloaded: named copyright holders but no image-specific reuse grant verified. Ask the appropriate rights holder for web publication and WebP conversion permission."
+      },
+      {
+        "project": "Angoori Bagh Housing",
+        "sourcePage": "https://press.moma.org/wp-content/uploads/2021/03/MoMA_Project-of-Independence_Press-Checklist_FINAL.pdf",
+        "creator": null,
+        "license": null,
+        "decision": "Exhibition checklist identifies Anguri Bagh material lent by Aga Khan Trust for Culture and Heritage Foundation of Pakistan. A lender credit does not establish a photographic reuse license."
+      },
+      {
+        "project": "Finance and Trade Centre, Karachi",
+        "sourcePage": "https://www.flickr.com/photos/creating2000/235861605/",
+        "creator": "Ali Adnan Qazalbash",
+        "license": "All rights reserved",
+        "subjectEvidence": "Photographer title and description explicitly name FTC Karachi on Shahrah-e-Faisal.",
+        "decision": "Not downloaded: image-specific Flickr license display says All rights reserved. Requires documented photographer permission."
+      },
+      {
+        "project": "Pakistan State Oil Headquarters",
+        "sourcePage": "https://www.flickr.com/photos/zasami/221881975/",
+        "creator": "zasami",
+        "license": "All rights reserved",
+        "subjectEvidence": "Photographer title PSO-house and description identify PSO House near Teen Talwar.",
+        "decision": "Not downloaded: image-specific Flickr license display says All rights reserved. Requires documented photographer permission."
+      },
+      {
+        "project": "Pakistan State Oil Headquarters",
+        "sourcePage": "https://psopk.com/copyright",
+        "creator": "PSO or relevant image owner; individual photographer not established",
+        "license": "Copyright reserved; incorporation in another website expressly prohibited",
+        "decision": "Official terms permit limited personal informational copies but expressly prohibit modifications or incorporation in another site. No website-use permission obtained."
+      },
+      {
+        "project": "All three projects",
+        "sourcePage": "https://www.azw.at/en/articles/press/yasmeen-lari/",
+        "creator": "Archive Yasmeen Lari (displayed rural-house image)",
+        "license": null,
+        "decision": "Press page gives an inquiry contact, not a confirmed grant for these project photographs. The displayed rural houses are different projects; not substituted. Permission contact listed: presse@azw.at."
+      }
+    ]
+  }
+}

@@ -459,68 +459,100 @@ window.sheBuildsProfiles = [
     },
     "portrait": {
       "path": "images/yasmeen-lari-portrait.webp",
-      "status": "placeholder",
+      "status": "available",
       "placeholder": "[ADD: portrait of Yasmeen Lari]",
-      "alt": "Placeholder for portrait of Yasmeen Lari; photograph pending.",
-      "credit": null,
-      "license": null
+      "alt": "Yasmeen Lari seated outdoors in a wicker chair, wearing a patterned scarf, with thatched buildings behind her.",
+      "credit": "BBC Urdu",
+      "license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yasmeen_Lari_on_BBC_News.jpg",
+      "originalFile": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Yasmeen_Lari_on_BBC_News.jpg",
+      "changes": "Converted to WebP and recompressed by She Builds without cropping or resizing. Displayed in grayscale using CSS; gallery presentation uses a centered 3:4 display crop. Original file colors and proportions are preserved.",
+      "dimensions": [
+        1369,
+        1165
+      ]
     },
     "projects": [
       {
-        "id": "angoori-bagh",
-        "name": "Angoori Bagh Housing",
-        "description": "A housing project in Pakistan that informed her later community-focused approach.",
+        "id": "denso-hall-conservation",
+        "name": "Denso Hall Conservation",
+        "description": "Heritage conservation of Denso Hall in Karachi, associated with Yasmeen Lari through the Heritage Foundation of Pakistan. The work sought to restore the historic public hall for community use. James Strachan designed the original building; Lari’s involvement is in its conservation, not its original design.",
         "status": "verified",
         "sourceIds": [
-          "azw-lari"
+          "hf-denso"
         ],
-        "credit": null,
+        "credit": "Heritage conservation: Yasmeen Lari / Heritage Foundation of Pakistan. Original building design: James Strachan.",
         "completionDate": null,
         "image": {
-          "path": "images/angoori-bagh.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: Angoori Bagh Housing]",
-          "alt": "Placeholder for Angoori Bagh Housing; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/denso-hall.webp",
+          "status": "available",
+          "placeholder": "[ADD: Denso Hall Conservation, Karachi]",
+          "alt": "Denso Hall’s buff stone facade, pointed arches and clock above a busy Karachi street, photographed in 2014.",
+          "credit": "Kabir118",
+          "license": "CC BY-SA 3.0 Unported",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Denso_Hall,_Karachi_01.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/1/19/Denso_Hall%2C_Karachi_01.jpg",
+          "changes": "Converted to WebP, recompressed and proportionally resized from 3264 × 1836 to 1600 × 900 by She Builds; no cropping or color changes. Photograph taken in 2014, before completion of the later restoration. This image adaptation is licensed CC BY-SA 3.0.",
+          "dimensions": [
+            1600,
+            900
+          ]
         }
       },
       {
-        "id": "finance-trade-centre",
-        "name": "Finance and Trade Centre",
-        "description": "A major commercial building in Karachi.",
+        "id": "low-cost-rural-housing",
+        "name": "Low-Cost Rural Housing",
+        "description": "A body of humanitarian work rather than a single named building. Through the Heritage Foundation of Pakistan, Yasmeen Lari helps communities construct affordable housing using local materials and traditional building knowledge. Training and participation help residents build skills and shape their own homes. The image illustrates this rural housing work; its specific village and building are not identified.",
         "status": "verified",
         "sourceIds": [
-          "azw-lari"
+          "hf-rural-housing"
         ],
-        "credit": null,
+        "credit": "Humanitarian housing work: Yasmeen Lari / Heritage Foundation of Pakistan, working with local communities.",
         "completionDate": null,
         "image": {
-          "path": "images/finance-trade-centre.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: Finance and Trade Centre]",
-          "alt": "Placeholder for Finance and Trade Centre; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/yasmeen-lari-rural-housing.webp",
+          "status": "available",
+          "placeholder": "[ADD: Low-Cost Rural Housing]",
+          "alt": "Rural homes with rounded earth-colored walls, conical thatched roofs and a shared shaded courtyard, illustrating Yasmeen Lari’s rural housing work.",
+          "credit": "BBC Urdu",
+          "license": "CC BY 3.0 Unported",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Yasmeen_Lari_Houses.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/7/76/Yasmeen_Lari_Houses.jpg",
+          "changes": "Illustrates Lari’s rural housing body of work; no specific village, building or LOG shelter is identified. Still from BBC Urdu’s 2020 report. Commons version was cropped, brightened and had its watermark removed. Converted to WebP and recompressed by She Builds at the original 2060 × 1052 dimensions, with no additional cropping or color changes.",
+          "dimensions": [
+            2060,
+            1052
+          ]
         }
       },
       {
-        "id": "pso-headquarters",
-        "name": "Pakistan State Oil headquarters",
-        "description": "A headquarters building in Karachi from her commercial practice.",
+        "id": "tomb-sultan-ibrahim-conservation",
+        "name": "Tomb of Sultan Ibrahim Conservation",
+        "description": "At Makli in Thatta, Pakistan, Yasmeen Lari was involved in conserving the Tomb of Sultan Ibrahim through the Heritage Foundation of Pakistan. In her account, this conservation work connected her with nearby communities and supported training in pottery and ceramic crafts. Her involvement concerns heritage conservation and community skills, not the monument’s original architectural design.",
         "status": "verified",
         "sourceIds": [
-          "azw-lari"
+          "platform-lari-conservation"
         ],
-        "credit": null,
+        "credit": "Conservation and community craft training: Yasmeen Lari / Heritage Foundation of Pakistan.",
         "completionDate": null,
         "image": {
-          "path": "images/pso-headquarters.webp",
-          "status": "placeholder",
-          "placeholder": "[ADD: Pakistan State Oil headquarters]",
-          "alt": "Placeholder for Pakistan State Oil headquarters; photograph pending.",
-          "credit": null,
-          "license": null
+          "path": "images/tomb-sultan-ibrahim.webp",
+          "status": "available",
+          "placeholder": "[ADD: Tomb of Sultan Ibrahim, Makli]",
+          "alt": "Tomb of Sultan Ibrahim at Makli, Thatta, with a large brick dome, turquoise tile bands and pointed entrance arches, flanked by smaller monuments.",
+          "credit": "A.Savin, Wikipedia",
+          "license": "Free Art License 1.3",
+          "licenseUrl": "https://artlibre.org/licence/lal/en/",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:PK_Thatta_asv2020-02_img25_Makli_Necropolis.jpg",
+          "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/a2/PK_Thatta_asv2020-02_img25_Makli_Necropolis.jpg",
+          "changes": "Photographed on 6 February 2020; this is the photograph date, not a conservation date. Converted to WebP, recompressed and proportionally resized from 6786 × 3817 to 1600 × 900 by She Builds; no cropping or color changes. This image adaptation remains available under Free Art License 1.3.",
+          "dimensions": [
+            1600,
+            900
+          ]
         }
       }
     ],
@@ -529,6 +561,21 @@ window.sheBuildsProfiles = [
         "id": "azw-lari",
         "label": "Architekturzentrum Wien — Yasmeen Lari: Architecture for the Future",
         "url": "https://www.azw.at/wp-content/uploads/2023/02/PR_Lari_EN_final.pdf"
+      },
+      {
+        "id": "hf-denso",
+        "label": "Heritage Foundation of Pakistan — Karachi Heritage: Denso Hall Conservation",
+        "url": "https://www.heritagefoundationpak.org/Contents/1995/karachi-heritage/3"
+      },
+      {
+        "id": "hf-rural-housing",
+        "label": "Heritage Foundation of Pakistan — Sindh Floods Rehabilitation (Basis of Lari Strategy and Guiding Principles)",
+        "url": "https://www.heritagefoundationpak.org/mi/6/sindh-floods-rehabilitation"
+      },
+      {
+        "id": "platform-lari-conservation",
+        "label": "PLATFORM — Yasmeen Lari and Kishwar Rizvi: Towards Barefoot Social Architecture, Part 2 (2021)",
+        "url": "https://www.platformspace.net/home/towards-barefoot-social-architecture-a-conversation-with-yasmeen-lari-part-2"
       }
     ],
     "pending": [
