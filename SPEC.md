@@ -1,5 +1,8 @@
 # SHE BUILDS — WEBSITE SPECIFICATION
 
+## Live website
+Vercel address: https://she-builds-one.vercel.app/
+
 ## Purpose and audience
 She Builds is an approachable, visually curated website that highlights one female architect each day. It celebrates architects from different countries and cultures for a general audience, with short, verified profiles and accessible language.
 
@@ -28,6 +31,24 @@ She Builds is an approachable, visually curated website that highlights one fema
 - Include attribution/credits for licensed photographs and factual sources where applicable.
 
 ## Content and verification rules
+### Selected collection — content preparation milestone
+Sarah Sadeq Project 03 is now verified against the firm's official portfolio: `ARCH-KSA-ALRIYADH-1840-IBRHMJMZ`, a residence in Riyadh attributed to Sarah Sadeq Architects. Retain the exact published portfolio identifier as its name; do not invent a client-facing title or imply a completion date. Source: https://sarahsadeq.com/projects/arch-ksa-alriyadh-1840-ibrhmjmz/
+
+The student selected these seven architects, in this order:
+1. Zaha Hadid — Iraq / United Kingdom
+2. Lina Bo Bardi — Italy / Brazil
+3. Kazuyo Sejima — Japan
+4. Yasmeen Lari — Pakistan
+5. Marina Tabassum — Bangladesh
+6. Sarah Sadeq — Kuwait
+7. Eileen Gray — Ireland / France
+
+Prepare all seven in `profiles.js`, with biography, approach, three project slots, interesting fact, source references, and portrait/project image metadata. Country labels describe the selected cultural/geographic associations rather than asserting citizenship. Source-backed fields are marked verified individually; unsupported details stay pending. Record collaboration credits. Image paths are reserved future destinations, not existing assets; all images remain labeled placeholders with draft alt text to revise against the eventual photograph and permission/credit fields pending.
+
+The data-preparation milestone is complete. The current implementation displays all seven selected architects in the Archive and opens each profile within `archive.html` using a query parameter. Publish individual narrative fields and projects only when their status is `verified` and their source references resolve. Pending project slots display only a generic verification notice, without an unverified project name or description. This explicitly permits partial profiles while project verification continues. Country labels remain geographic associations chosen by the site owner.
+
+Keep gray labeled image placeholders, the existing three content pages, Scheme C homepage composition, warm neutral palette, serif typography and subtle interactions. Remove the dormant automatic-selection code; no daily rotation or Supabase authentication in this step. Keep the homepage a clearly labeled preview linking to the populated Archive. Update stale empty-collection copy on Home and About. Do not download/generate images or commit. Full-profile `verified` flags remain false until all required content is verified; Archive publication uses field-level verification instead.
+
 - NEVER invent names, facts, dimensions, dates, nationalities, places, quotes, awards or projects. Ask the student for content or clearly label data awaiting verification.
 - Profiles must contain background, design approach, three notable projects and one interesting fact before they go live as factual content.
 - Provide a small, easy-to-edit local JavaScript data file for curated, verified profiles. No AI-generated daily facts or network API is required.
